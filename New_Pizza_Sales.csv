@@ -1,0 +1,1005 @@
+,Order ID,Restaurant Name,State,City,Pizza Type,Pizza Size,Toppings Count,Topping Density,Pizza Complexity,Order Month,Order Time,Delivery Time,Delivery Duration (min),Estimated Duration (min),Delay (min),Delay Status,Distance (km),Traffic Level,Payment Category,Payment Method,Is Peak Hour,Is Weekend
+0,ORD001,Domino's,New York,New York,Veg,Medium,3,High Density,Low,January,6:30,6:45,15,15,0,On Time,2.5,Medium,Online,Card,TRUE,FALSE
+1,ORD002,Papa John's,California,Los Angeles,Non-Veg,Large,4,Medium Density,Medium,February,8:00,8:25,25,30,-5,Early,5,High,Online,Wallet,TRUE,FALSE
+2,ORD003,Little Caesars,Illinois,Chicago,Vegan,Small,2,Medium Density,Very Low,March,12:15,12:35,20,18,2,Delayed,3,Low,Online,UPI,FALSE,FALSE
+3,ORD004,Pizza Hut,Florida,Miami,Cheese Burst,X-Large,5,High Density,High,April,7:45,8:10,25,27,-2,Early,4.5,Medium,Offline,Cash,TRUE,FALSE
+4,ORD005,Marco's Pizza,Texas,Dallas,Non-Veg,Medium,3,High Density,Low,May,1:00,1:20,20,12,8,Delayed,2,High,Online,Card,FALSE,TRUE
+5,ORD006,Domino's,New York,New York,Non-Veg,Medium,3,High Density,Low,January,7:00,7:20,20,18,2,Delayed,3,High,Online,Card,TRUE,TRUE
+6,ORD007,Papa John's,California,Los Angeles,Veg,Large,4,High Density,Medium,January,8:15,8:40,25,27,-2,Early,4.5,Medium,Online,UPI,TRUE,TRUE
+7,ORD008,Little Caesars,Illinois,Chicago,Vegan,Small,2,High Density,Very Low,January,6:30,6:50,20,12,8,Delayed,2,Low,Offline,Cash,TRUE,FALSE
+8,ORD009,Pizza Hut,Florida,Miami,Cheese Burst,X-Large,5,High Density,High,January,7:45,8:10,25,30,-5,Early,5,High,Online,Wallet,TRUE,FALSE
+9,ORD010,Marco's Pizza,Texas,Dallas,Non-Veg,Medium,3,High Density,Low,January,1:00,1:20,20,21,-1,Early,3.5,Medium,Online,Card,FALSE,FALSE
+10,ORD011,Domino's,California,San Francisco,Veg,Large,4,High Density,Medium,January,5:30,5:50,20,24,-4,Early,4,Low,Online,UPI,FALSE,FALSE
+11,ORD012,Papa John's,Texas,Houston,Non-Veg,Medium,3,High Density,Low,January,7:00,7:25,25,18,7,Delayed,3,Medium,Offline,Cash,TRUE,FALSE
+12,ORD013,Little Caesars,Arizona,Phoenix,Vegan,Small,2,Medium Density,Very Low,January,6:15,6:35,20,15,5,Delayed,2.5,High,Online,Wallet,TRUE,TRUE
+13,ORD014,Pizza Hut,Georgia,Atlanta,Cheese Burst,X-Large,5,High Density,High,January,8:30,8:55,25,24,1,Delayed,4,Low,Online,Card,TRUE,TRUE
+14,ORD015,Marco's Pizza,Washington,Seattle,Non-Veg,Medium,3,High Density,Low,January,2:00,2:20,20,18,2,Delayed,3,Medium,Online,UPI,FALSE,FALSE
+15,ORD016,Domino's,Colorado,Denver,Veg,Large,4,High Density,Medium,January,7:45,8:10,25,27,-2,Early,4.5,High,Offline,Cash,TRUE,FALSE
+16,ORD017,Papa John's,Massachusetts,Boston,Vegan,Small,2,High Density,Very Low,January,6:30,6:55,25,12,13,Delayed,2,Low,Online,Wallet,TRUE,FALSE
+17,ORD018,Little Caesars,Texas,Dallas,Non-Veg,Medium,3,High Density,Low,January,8:00,8:20,20,21,-1,Early,3.5,Medium,Online,Card,TRUE,FALSE
+18,ORD019,Pizza Hut,California,Los Angeles,Cheese Burst,X-Large,5,High Density,High,January,7:15,7:40,25,24,1,Delayed,4,High,Online,UPI,TRUE,FALSE
+19,ORD020,Marco's Pizza,Illinois,Chicago,Non-Veg,Medium,3,High Density,Low,January,1:30,1:50,20,18,2,Delayed,3,Low,Offline,Cash,FALSE,TRUE
+20,ORD021,Domino's,Florida,Miami,Veg,Large,4,High Density,Medium,January,6:45,7:10,25,27,-2,Early,4.5,Medium,Online,Wallet,TRUE,TRUE
+21,ORD022,Papa John's,Texas,Dallas,Vegan,Small,2,High Density,Very Low,January,8:00,8:25,25,12,13,Delayed,2,High,Online,Card,TRUE,FALSE
+22,ORD023,Little Caesars,Texas,Houston,Non-Veg,Medium,3,High Density,Low,January,7:30,7:50,20,21,-1,Early,3.5,Low,Online,UPI,TRUE,FALSE
+23,ORD024,Pizza Hut,Arizona,Phoenix,Cheese Burst,X-Large,5,High Density,High,January,6:15,6:40,25,24,1,Delayed,4,Medium,Offline,Cash,TRUE,FALSE
+24,ORD025,Marco's Pizza,Georgia,Atlanta,Non-Veg,Medium,3,High Density,Low,January,2:30,2:50,20,18,2,Delayed,3,High,Online,Wallet,FALSE,FALSE
+25,ORD026,Domino's,Washington,Seattle,Veg,Large,4,High Density,Medium,January,8:00,8:25,25,27,-2,Early,4.5,Low,Online,Card,TRUE,FALSE
+26,ORD027,Papa John's,Colorado,Denver,Vegan,Small,2,High Density,Very Low,January,7:15,7:40,25,12,13,Delayed,2,Medium,Online,UPI,TRUE,TRUE
+27,ORD028,Little Caesars,Massachusetts,Boston,Non-Veg,Medium,3,High Density,Low,January,6:30,6:50,20,21,-1,Early,3.5,High,Offline,Cash,TRUE,TRUE
+28,ORD029,Pizza Hut,Illinois,Chicago,Cheese Burst,X-Large,5,High Density,High,January,8:00,8:25,25,24,1,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+29,ORD030,Marco's Pizza,Florida,Miami,Non-Veg,Medium,3,High Density,Low,January,1:15,1:35,20,18,2,Delayed,3,Medium,Online,Card,FALSE,FALSE
+30,ORD031,Domino's,California,Los Angeles,Veg,Large,4,High Density,Medium,February,7:45,8:10,25,27,-2,Early,4.5,High,Online,UPI,TRUE,FALSE
+31,ORD032,Papa John's,Arizona,Phoenix,Vegan,Small,2,High Density,Very Low,February,6:00,6:25,25,12,13,Delayed,2,Low,Offline,Cash,TRUE,FALSE
+32,ORD033,Little Caesars,Georgia,Atlanta,Non-Veg,Medium,3,High Density,Low,February,8:30,8:55,25,21,4,Delayed,3.5,Medium,Online,Wallet,TRUE,TRUE
+33,ORD034,Pizza Hut,Texas,Dallas,Cheese Burst,X-Large,5,High Density,High,February,2:15,2:35,20,24,-4,Early,4,High,Online,Card,FALSE,TRUE
+34,ORD035,Marco's Pizza,Washington,Seattle,Non-Veg,Medium,3,High Density,Low,February,7:00,7:25,25,18,7,Delayed,3,Low,Online,UPI,TRUE,FALSE
+35,ORD036,Domino's,Texas,Houston,Veg,Large,4,High Density,Medium,February,6:45,7:10,25,27,-2,Early,4.5,Medium,Online,Card,TRUE,FALSE
+36,ORD037,Papa John's,Arizona,Phoenix,Non-Veg,Medium,3,High Density,Low,February,8:00,8:25,25,18,7,Delayed,3,High,Online,UPI,TRUE,FALSE
+37,ORD038,Little Caesars,Georgia,Atlanta,Vegan,Small,2,Medium Density,Very Low,February,7:30,7:50,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,FALSE
+38,ORD039,Pizza Hut,Texas,Dallas,Cheese Burst,X-Large,5,High Density,High,February,6:15,6:40,25,24,1,Delayed,4,Medium,Online,Wallet,TRUE,FALSE
+39,ORD040,Marco's Pizza,Washington,Seattle,Non-Veg,Medium,3,High Density,Low,February,2:30,2:50,20,21,-1,Early,3.5,High,Online,Card,FALSE,TRUE
+40,ORD041,Domino's,Colorado,Denver,Veg,Large,4,High Density,Medium,February,7:00,7:20,20,24,-4,Early,4,Low,Online,UPI,TRUE,TRUE
+41,ORD042,Papa John's,Massachusetts,Boston,Vegan,Small,2,High Density,Very Low,February,8:15,8:40,25,12,13,Delayed,2,Medium,Offline,Cash,TRUE,FALSE
+42,ORD043,Little Caesars,Texas,Dallas,Non-Veg,Medium,3,High Density,Low,February,6:30,6:50,20,18,2,Delayed,3,High,Online,Wallet,TRUE,FALSE
+43,ORD044,Pizza Hut,California,Los Angeles,Cheese Burst,X-Large,5,High Density,High,February,7:45,8:10,25,30,-5,Early,5,Low,Online,Card,TRUE,FALSE
+44,ORD045,Marco's Pizza,Illinois,Chicago,Non-Veg,Medium,3,High Density,Low,February,1:00,1:20,20,21,-1,Early,3.5,Medium,Online,UPI,FALSE,FALSE
+45,ORD046,Domino's,Florida,Miami,Veg,Large,4,High Density,Medium,February,6:30,6:50,20,24,-4,Early,4,High,Offline,Cash,TRUE,FALSE
+46,ORD047,Papa John's,Texas,Dallas,Non-Veg,Medium,3,High Density,Low,February,8:00,8:25,25,18,7,Delayed,3,Low,Online,Wallet,TRUE,TRUE
+47,ORD048,Little Caesars,Texas,Houston,Vegan,Small,2,Medium Density,Very Low,February,7:15,7:35,20,15,5,Delayed,2.5,Medium,Online,Card,TRUE,TRUE
+48,ORD049,Pizza Hut,Arizona,Phoenix,Cheese Burst,X-Large,5,High Density,High,February,8:30,8:55,25,27,-2,Early,4.5,High,Online,UPI,TRUE,FALSE
+49,ORD050,Marco's Pizza,Georgia,Atlanta,Non-Veg,Medium,3,High Density,Low,February,2:45,3:05,20,18,2,Delayed,3,Low,Offline,Cash,FALSE,FALSE
+50,ORD051,Domino's,Washington,Seattle,Veg,Large,4,High Density,Medium,February,7:00,7:20,20,24,-4,Early,4,Medium,Online,Wallet,TRUE,FALSE
+51,ORD052,Papa John's,Colorado,Denver,Vegan,Small,2,High Density,Very Low,February,8:15,8:40,25,12,13,Delayed,2,High,Online,Card,TRUE,FALSE
+52,ORD053,Little Caesars,Massachusetts,Boston,Non-Veg,Medium,3,High Density,Low,February,6:30,6:50,20,21,-1,Early,3.5,Low,Online,UPI,TRUE,FALSE
+53,ORD054,Pizza Hut,Illinois,Chicago,Cheese Burst,X-Large,5,High Density,High,February,7:45,8:10,25,24,1,Delayed,4,Medium,Offline,Cash,TRUE,TRUE
+54,ORD055,Marco's Pizza,Florida,Miami,Non-Veg,Medium,3,High Density,Low,February,1:00,1:20,20,18,2,Delayed,3,High,Online,Wallet,FALSE,TRUE
+55,ORD056,Domino's,California,Los Angeles,Veg,Large,4,High Density,Medium,February,6:30,6:50,20,27,-7,Early,4.5,Low,Online,Card,TRUE,FALSE
+56,ORD057,Papa John's,Arizona,Phoenix,Non-Veg,Medium,3,High Density,Low,February,8:00,8:25,25,18,7,Delayed,3,High,Online,UPI,TRUE,FALSE
+57,ORD058,Little Caesars,Georgia,Atlanta,Vegan,Small,2,Medium Density,Very Low,February,7:15,7:35,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,FALSE
+58,ORD059,Pizza Hut,Texas,Dallas,Cheese Burst,X-Large,5,High Density,High,February,8:30,8:55,25,24,1,Delayed,4,Medium,Online,Wallet,TRUE,FALSE
+59,ORD060,Marco's Pizza,Washington,Seattle,Non-Veg,Medium,3,High Density,Low,March,2:45,3:05,20,21,-1,Early,3.5,High,Online,Card,FALSE,FALSE
+60,ORD061,Domino's,Colorado,Denver,Veg,Large,4,High Density,Medium,March,7:00,7:20,20,24,-4,Early,4,Low,Online,UPI,TRUE,TRUE
+61,ORD062,Papa John's,Massachusetts,Boston,Vegan,Small,2,High Density,Very Low,March,8:15,8:40,25,12,13,Delayed,2,Medium,Offline,Cash,TRUE,TRUE
+62,ORD063,Little Caesars,Texas,Dallas,Non-Veg,Medium,3,High Density,Low,March,6:30,6:50,20,18,2,Delayed,3,High,Online,Wallet,TRUE,FALSE
+63,ORD064,Pizza Hut,California,Los Angeles,Cheese Burst,X-Large,5,High Density,High,March,7:45,8:10,25,27,-2,Early,4.5,Low,Online,Card,TRUE,FALSE
+64,ORD065,Marco's Pizza,Illinois,Chicago,Non-Veg,Medium,3,High Density,Low,March,1:00,1:20,20,21,-1,Early,3.5,Low,Online,Card,FALSE,FALSE
+65,ORD066,Domino's,Florida,Miami,Veg,Large,4,High Density,Medium,March,6:30,6:50,20,24,-4,Early,4,High,Online,Card,TRUE,FALSE
+66,ORD067,Papa John's,Texas,Dallas,Non-Veg,Medium,3,High Density,Low,March,8:00,8:25,25,21,4,Delayed,3.5,Medium,Online,UPI,TRUE,FALSE
+67,ORD068,Little Caesars,Illinois,Chicago,Vegan,Small,2,Medium Density,Very Low,March,7:15,7:35,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,TRUE
+68,ORD069,Pizza Hut,Arizona,Phoenix,Cheese Burst,X-Large,5,High Density,High,March,7:45,8:10,25,27,-2,Early,4.5,High,Online,Wallet,TRUE,TRUE
+69,ORD070,Marco's Pizza,Georgia,Atlanta,Non-Veg,Medium,3,High Density,Low,March,1:00,1:20,20,18,2,Delayed,3,Low,Online,Card,FALSE,FALSE
+70,ORD071,Domino's,Washington,Seattle,Veg,Large,4,High Density,Medium,March,6:30,6:50,20,24,-4,Early,4,Medium,Online,UPI,TRUE,FALSE
+71,ORD072,Papa John's,Colorado,Denver,Vegan,Small,2,High Density,Very Low,March,8:15,8:40,25,12,13,Delayed,2,High,Offline,Cash,TRUE,FALSE
+72,ORD073,Little Caesars,Massachusetts,Boston,Non-Veg,Medium,3,High Density,Low,March,6:30,6:50,20,21,-1,Early,3.5,Low,Online,Wallet,TRUE,FALSE
+73,ORD074,Pizza Hut,Illinois,Chicago,Cheese Burst,X-Large,5,High Density,High,March,7:45,8:10,25,24,1,Delayed,4,Medium,Online,Card,TRUE,FALSE
+74,ORD075,Marco's Pizza,Florida,Miami,Non-Veg,Medium,3,High Density,Low,March,1:00,1:20,20,18,2,Delayed,3,High,Online,UPI,FALSE,TRUE
+75,ORD076,Domino's,California,Los Angeles,Veg,Large,4,High Density,Medium,March,6:30,6:50,20,27,-7,Early,4.5,Low,Offline,Cash,TRUE,TRUE
+76,ORD077,Papa John's,Arizona,Phoenix,Non-Veg,Medium,3,High Density,Low,March,8:00,8:25,25,18,7,Delayed,3,High,Online,Wallet,TRUE,FALSE
+77,ORD078,Little Caesars,Georgia,Atlanta,Vegan,Small,2,Medium Density,Very Low,March,7:15,7:35,20,15,5,Delayed,2.5,Low,Online,Card,TRUE,FALSE
+78,ORD079,Pizza Hut,Texas,Dallas,Cheese Burst,X-Large,5,High Density,High,March,7:45,8:10,25,24,1,Delayed,4,Medium,Online,UPI,TRUE,FALSE
+79,ORD080,Marco's Pizza,Washington,Seattle,Non-Veg,Medium,3,High Density,Low,March,1:00,1:20,20,21,-1,Early,3.5,High,Offline,Cash,FALSE,FALSE
+80,ORD081,Domino's,Colorado,Denver,Veg,Large,4,High Density,Medium,March,6:30,6:50,20,24,-4,Early,4,Low,Online,Wallet,TRUE,FALSE
+81,ORD082,Papa John's,Massachusetts,Boston,Vegan,Small,2,High Density,Very Low,March,8:15,8:40,25,12,13,Delayed,2,High,Online,Card,TRUE,TRUE
+82,ORD083,Little Caesars,Texas,Dallas,Non-Veg,Medium,3,High Density,Low,March,6:30,6:50,20,18,2,Delayed,3,High,Online,UPI,TRUE,TRUE
+83,ORD084,Pizza Hut,California,Los Angeles,Cheese Burst,X-Large,5,High Density,High,March,7:45,8:10,25,27,-2,Early,4.5,Low,Offline,Cash,TRUE,FALSE
+84,ORD085,Marco's Pizza,Illinois,Chicago,Non-Veg,Medium,3,High Density,Low,March,1:00,1:20,20,21,-1,Early,3.5,Medium,Online,Wallet,FALSE,FALSE
+85,ORD086,Domino's,Florida,Miami,Veg,Large,4,High Density,Medium,March,6:30,6:50,20,24,-4,Early,4,High,Online,Card,TRUE,FALSE
+86,ORD087,Papa John's,Texas,Dallas,Non-Veg,Medium,3,High Density,Low,March,8:00,8:25,25,18,7,Delayed,3,Low,Online,UPI,TRUE,FALSE
+87,ORD088,Little Caesars,Texas,Houston,Vegan,Small,2,Medium Density,Very Low,March,7:15,7:35,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,FALSE
+88,ORD089,Pizza Hut,Arizona,Phoenix,Cheese Burst,X-Large,5,High Density,High,March,7:45,8:10,25,27,-2,Early,4.5,High,Online,Wallet,TRUE,TRUE
+89,ORD090,Marco's Pizza,Georgia,Atlanta,Non-Veg,Medium,3,High Density,Low,March,1:00,1:20,20,18,2,Delayed,3,Medium,Online,Card,FALSE,TRUE
+90,ORD091,Domino's,Washington,Seattle,Veg,Large,4,High Density,Medium,April,6:30,6:50,20,24,-4,Early,4,Low,Online,UPI,TRUE,FALSE
+91,ORD092,Papa John's,Colorado,Denver,Vegan,Small,2,High Density,Very Low,April,8:15,8:40,25,12,13,Delayed,2,High,Offline,Cash,TRUE,FALSE
+92,ORD093,Little Caesars,Massachusetts,Boston,Non-Veg,Medium,3,High Density,Low,April,6:30,6:50,20,21,-1,Early,3.5,Low,Online,Wallet,TRUE,FALSE
+93,ORD094,Pizza Hut,Illinois,Chicago,Cheese Burst,X-Large,5,High Density,High,April,7:45,8:10,25,24,1,Delayed,4,Medium,Online,Card,TRUE,FALSE
+94,ORD095,Marco's Pizza,Florida,Miami,Non-Veg,Medium,3,High Density,Low,April,1:00,1:20,20,18,2,Delayed,3,High,Online,UPI,FALSE,FALSE
+95,ORD096,Domino's,California,Los Angeles,Veg,Large,4,High Density,Medium,April,6:30,6:50,20,27,-7,Early,4.5,High,Online,Card,TRUE,TRUE
+96,ORD097,Papa John's,Texas,Dallas,Non-Veg,Medium,3,High Density,Low,April,8:00,8:25,25,18,7,Delayed,3,Medium,Online,UPI,TRUE,TRUE
+97,ORD098,Little Caesars,Illinois,Chicago,Vegan,Small,2,Medium Density,Very Low,April,7:15,7:35,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,FALSE
+98,ORD099,Pizza Hut,Arizona,Phoenix,Cheese Burst,X-Large,5,High Density,High,April,7:45,8:10,25,24,1,Delayed,4,High,Online,Wallet,TRUE,FALSE
+99,ORD100,Marco's Pizza,Georgia,Atlanta,Non-Veg,Medium,3,High Density,Low,April,1:00,1:20,20,21,-1,Early,3.5,Low,Online,Card,FALSE,FALSE
+100,ORD101,Domino's,Washington,Seattle,Veg,Large,4,High Density,Medium,April,6:30,6:50,20,27,-7,Early,4.5,Medium,Online,UPI,TRUE,FALSE
+101,ORD102,Papa John's,Colorado,Denver,Vegan,Small,2,High Density,Very Low,April,8:15,8:40,25,12,13,Delayed,2,High,Offline,Cash,TRUE,FALSE
+102,ORD103,Little Caesars,Massachusetts,Boston,Non-Veg,Medium,3,High Density,Low,April,6:30,6:50,20,21,-1,Early,3.5,Low,Online,Wallet,TRUE,TRUE
+103,ORD104,Pizza Hut,Illinois,Chicago,Cheese Burst,X-Large,5,High Density,High,April,7:45,8:10,25,24,1,Delayed,4,Medium,Online,Card,TRUE,TRUE
+104,ORD105,Marco's Pizza,Florida,Miami,Non-Veg,Medium,3,High Density,Low,April,1:00,1:20,20,18,2,Delayed,3,High,Online,UPI,FALSE,FALSE
+105,ORD106,Domino's,California,Los Angeles,Veg,Large,4,High Density,Medium,April,6:30,6:50,20,27,-7,Early,4.5,Low,Offline,Cash,TRUE,FALSE
+106,ORD107,Papa John's,Arizona,Phoenix,Non-Veg,Medium,3,High Density,Low,April,8:00,8:25,25,18,7,Delayed,3,High,Online,Wallet,TRUE,FALSE
+107,ORD108,Little Caesars,Georgia,Atlanta,Vegan,Small,2,Medium Density,Very Low,April,7:15,7:35,20,15,5,Delayed,2.5,Low,Online,Card,TRUE,FALSE
+108,ORD109,Pizza Hut,Texas,Dallas,Cheese Burst,X-Large,5,High Density,High,April,7:45,8:10,25,24,1,Delayed,4,Medium,Online,UPI,TRUE,FALSE
+109,ORD110,Marco's Pizza,Washington,Seattle,Non-Veg,Medium,3,High Density,Low,April,1:00,1:20,20,21,-1,Early,3.5,High,Offline,Cash,FALSE,TRUE
+110,ORD111,Domino's,Colorado,Denver,Veg,Large,4,High Density,Medium,April,6:30,6:50,20,27,-7,Early,4.5,Low,Online,Wallet,TRUE,TRUE
+111,ORD112,Papa John's,Massachusetts,Boston,Vegan,Small,2,High Density,Very Low,April,8:15,8:40,25,12,13,Delayed,2,High,Online,Card,TRUE,FALSE
+112,ORD113,Little Caesars,Texas,Dallas,Non-Veg,Medium,3,High Density,Low,April,6:30,6:50,20,18,2,Delayed,3,High,Online,UPI,TRUE,FALSE
+113,ORD114,Pizza Hut,California,Los Angeles,Cheese Burst,X-Large,5,High Density,High,April,7:45,8:10,25,27,-2,Early,4.5,Low,Offline,Cash,TRUE,FALSE
+114,ORD115,Marco's Pizza,Illinois,Chicago,Non-Veg,Medium,3,High Density,Low,April,1:00,1:20,20,21,-1,Early,3.5,Medium,Online,Wallet,FALSE,FALSE
+115,ORD116,Domino's,Florida,Miami,Veg,Large,4,High Density,Medium,April,6:30,6:50,20,24,-4,Early,4,High,Online,Card,TRUE,FALSE
+116,ORD117,Papa John's,Texas,Dallas,Non-Veg,Medium,3,High Density,Low,April,8:00,8:25,25,18,7,Delayed,3,Low,Online,UPI,TRUE,TRUE
+117,ORD118,Little Caesars,Texas,Houston,Vegan,Small,2,Medium Density,Very Low,April,7:15,7:35,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,TRUE
+118,ORD119,Pizza Hut,Arizona,Phoenix,Cheese Burst,X-Large,5,High Density,High,April,7:45,8:10,25,27,-2,Early,4.5,High,Online,Wallet,TRUE,FALSE
+119,ORD120,Marco's Pizza,Georgia,Atlanta,Non-Veg,Medium,3,High Density,Low,April,1:00,1:20,20,18,2,Delayed,3,Medium,Online,Card,FALSE,FALSE
+120,ORD121,Domino's,Washington,Seattle,Veg,Large,4,High Density,Medium,May,6:30,6:50,20,27,-7,Early,4.5,Low,Online,UPI,TRUE,FALSE
+121,ORD122,Papa John's,Colorado,Denver,Vegan,Small,2,High Density,Very Low,May,8:15,8:40,25,12,13,Delayed,2,High,Offline,Cash,TRUE,FALSE
+122,ORD123,Little Caesars,Massachusetts,Boston,Non-Veg,Medium,3,High Density,Low,May,6:30,6:50,20,21,-1,Early,3.5,Low,Online,Wallet,TRUE,FALSE
+123,ORD124,Pizza Hut,Illinois,Chicago,Cheese Burst,X-Large,5,High Density,High,May,7:45,8:10,25,24,1,Delayed,4,Medium,Online,Card,TRUE,TRUE
+124,ORD125,Marco's Pizza,Florida,Miami,Non-Veg,Medium,3,High Density,Low,May,1:00,1:20,20,18,2,Delayed,3,High,Online,UPI,FALSE,TRUE
+125,ORD126,Domino's,New York,New York,Veg,Medium,2,Medium Density,Very Low,August,6:00,6:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,FALSE
+126,ORD127,Papa John's,Illinois,Chicago,Non-Veg,Large,4,Medium Density,Medium,August,7:15,7:45,30,36,-6,Early,6,Medium,Online,UPI,TRUE,FALSE
+127,ORD128,Pizza Hut,California,Los Angeles,Cheese Burst,X-Large,5,Medium Density,High,August,8:30,9:10,40,48,-8,Early,8,High,Online,Wallet,TRUE,TRUE
+128,ORD129,Little Caesars,Texas,Houston,Vegan,Small,1,Low Density,Very Low,August,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,TRUE
+129,ORD130,Marco's Pizza,Arizona,Phoenix,Non-Veg,Large,4,Low Density,Medium,August,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,FALSE
+130,ORD131,Domino's,Florida,Miami,Veg,Medium,3,Low Density,Low,August,8:00,8:35,35,33,2,Delayed,5.5,Medium,Online,Wallet,TRUE,FALSE
+131,ORD132,Papa John's,Colorado,Denver,Vegan,Small,2,High Density,Very Low,August,6:30,6:50,20,12,8,Delayed,2,Low,Online,UPI,TRUE,FALSE
+132,ORD133,Pizza Hut,Massachusetts,Boston,Cheese Burst,X-Large,5,Medium Density,High,August,7:45,8:25,40,45,-5,Early,7.5,High,Offline,Cash,TRUE,FALSE
+133,ORD134,Little Caesars,Texas,Dallas,Non-Veg,Medium,3,Medium Density,Low,August,6:00,6:30,30,24,6,Delayed,4,Medium,Online,Card,TRUE,FALSE
+134,ORD135,Marco's Pizza,Washington,Seattle,Veg,Large,4,Low Density,Medium,August,8:15,9:00,45,54,-9,Early,9,High,Online,Wallet,TRUE,TRUE
+135,ORD136,Domino's,California,San Jose,Veg,Medium,2,Medium Density,Very Low,August,6:00,6:20,20,18,2,Delayed,3,Low,Online,UPI,TRUE,TRUE
+136,ORD137,Papa John's,Texas,Austin,Non-Veg,Large,4,Medium Density,Medium,August,7:15,7:45,30,36,-6,Early,6,Medium,Offline,Cash,TRUE,FALSE
+137,ORD138,Pizza Hut,California,San Diego,Cheese Burst,X-Large,5,Medium Density,High,August,8:30,9:10,40,48,-8,Early,8,High,Online,Card,TRUE,FALSE
+138,ORD139,Little Caesars,Florida,Jacksonville,Vegan,Small,1,Low Density,Very Low,August,6:45,7:05,20,15,5,Delayed,2.5,Low,Online,Wallet,TRUE,FALSE
+139,ORD140,Marco's Pizza,Texas,Fort Worth,Non-Veg,Large,4,Low Density,Medium,August,7:00,7:50,50,60,-10,Early,10,High,Online,UPI,TRUE,FALSE
+140,ORD141,Domino's,Ohio,Columbus,Veg,Medium,3,Low Density,Low,August,8:00,8:35,35,33,2,Delayed,5.5,Medium,Offline,Cash,TRUE,FALSE
+141,ORD142,Papa John's,North Carolina,Charlotte,Vegan,Small,2,High Density,Very Low,August,6:30,6:50,20,12,8,Delayed,2,Low,Online,Card,TRUE,TRUE
+142,ORD143,Pizza Hut,Indiana,Indianapolis,Cheese Burst,X-Large,5,Medium Density,High,August,7:45,8:25,40,45,-5,Early,7.5,High,Online,Wallet,TRUE,TRUE
+143,ORD144,Little Caesars,California,San Francisco,Non-Veg,Medium,3,Medium Density,Low,August,6:00,6:30,30,24,6,Delayed,4,Medium,Online,UPI,TRUE,FALSE
+144,ORD145,Marco's Pizza,North Carolina,Charlotte,Veg,Large,4,Low Density,Medium,August,8:15,9:00,45,54,-9,Early,9,High,Offline,Cash,TRUE,FALSE
+145,ORD146,Domino's,Michigan,Detroit,Veg,Medium,2,Medium Density,Very Low,August,6:00,6:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,FALSE
+146,ORD147,Papa John's,Texas,El Paso,Non-Veg,Large,4,Medium Density,Medium,August,7:15,7:45,30,36,-6,Early,6,Medium,Online,Wallet,TRUE,FALSE
+147,ORD148,Pizza Hut,Tennessee,Memphis,Cheese Burst,X-Large,5,Medium Density,High,August,8:30,9:10,40,48,-8,Early,8,High,Online,UPI,TRUE,FALSE
+148,ORD149,Little Caesars,Maryland,Baltimore,Vegan,Small,1,Low Density,Very Low,August,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,TRUE
+149,ORD150,Marco's Pizza,Massachusetts,Boston,Non-Veg,Large,4,Low Density,Medium,August,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,TRUE
+150,ORD151,Domino's,New York,New York,Veg,Large,4,Medium Density,Medium,August,6:00,6:30,30,33,-3,Early,5.5,High,Offline,Domino's Cash,TRUE,FALSE
+151,ORD152,Pizza Hut,California,Los Angeles,Cheese Burst,X-Large,5,Medium Density,High,August,7:15,7:45,30,36,-6,Early,6,Medium,Online,Card,TRUE,FALSE
+152,ORD153,Papa John's,Illinois,Chicago,Non-Veg,Medium,3,Low Density,Low,August,8:00,8:35,35,42,-7,Early,7,Low,Online,UPI,TRUE,TRUE
+153,ORD154,Little Caesars,Texas,Houston,Vegan,Small,2,Medium Density,Very Low,August,5:45,6:05,20,18,2,Delayed,3,Low,Online,Wallet,FALSE,TRUE
+154,ORD155,Marco's Pizza,Arizona,Phoenix,Non-Veg,Medium,4,Medium Density,Low,August,1:30,2:00,30,30,0,On Time,5,High,Offline,Cash,FALSE,FALSE
+155,ORD156,Domino's,Florida,Miami,Veg,Large,3,Low Density,Medium,August,6:20,6:50,30,39,-9,Early,6.5,Medium,Offline,Domino's Cash,TRUE,FALSE
+156,ORD157,Papa John's,Colorado,Denver,Vegan,Small,2,Low Density,Very Low,August,8:10,8:45,35,24,11,Delayed,4,High,Online,Card,TRUE,FALSE
+157,ORD158,Little Caesars,Massachusetts,Boston,Non-Veg,Medium,3,High Density,Low,August,6:00,6:25,25,21,4,Delayed,3.5,Low,Online,UPI,TRUE,FALSE
+158,ORD159,Pizza Hut,Texas,Dallas,Cheese Burst,X-Large,5,Medium Density,High,August,7:30,8:00,30,36,-6,Early,6,Medium,Online,Wallet,TRUE,FALSE
+159,ORD160,Marco's Pizza,Washington,Seattle,Non-Veg,Medium,4,Medium Density,Low,August,12:45,1:15,30,33,-3,Early,5.5,High,Offline,Cash,FALSE,TRUE
+160,ORD161,Domino's,Colorado,Denver,Veg,Large,3,Low Density,Medium,August,6:15,6:45,30,36,-6,Early,6,Medium,Offline,Domino's Cash,TRUE,TRUE
+161,ORD162,Papa John's,Massachusetts,Boston,Vegan,Small,2,Low Density,Very Low,August,8:00,8:30,30,27,3,Delayed,4.5,Low,Online,Card,TRUE,FALSE
+162,ORD163,Little Caesars,Texas,Dallas,Non-Veg,Medium,3,High Density,Low,August,6:10,6:35,25,18,7,Delayed,3,High,Online,UPI,TRUE,FALSE
+163,ORD164,Pizza Hut,California,Los Angeles,Cheese Burst,X-Large,5,Medium Density,High,August,7:20,7:50,30,39,-9,Early,6.5,Medium,Online,Wallet,TRUE,FALSE
+164,ORD165,Marco's Pizza,Illinois,Chicago,Non-Veg,Medium,4,Medium Density,Low,August,1:15,1:45,30,30,0,On Time,5,High,Offline,Cash,FALSE,FALSE
+165,ORD166,Domino's,Florida,Miami,Veg,Large,3,Low Density,Medium,August,6:25,6:55,30,36,-6,Early,6,Medium,Offline,Domino's Cash,TRUE,FALSE
+166,ORD167,Papa John's,Colorado,Denver,Vegan,Small,2,Low Density,Very Low,August,8:05,8:35,30,24,6,Delayed,4,Low,Online,Card,TRUE,TRUE
+167,ORD168,Little Caesars,Massachusetts,Boston,Non-Veg,Medium,3,High Density,Low,August,6:00,6:25,25,21,4,Delayed,3.5,High,Online,UPI,TRUE,TRUE
+168,ORD169,Pizza Hut,Texas,Dallas,Cheese Burst,X-Large,5,Medium Density,High,August,7:30,8:00,30,36,-6,Early,6,Medium,Online,Wallet,TRUE,FALSE
+169,ORD170,Marco's Pizza,Washington,Seattle,Non-Veg,Medium,4,Medium Density,Low,August,1:00,1:30,30,33,-3,Early,5.5,Low,Offline,Cash,FALSE,FALSE
+170,ORD171,Domino's,Colorado,Denver,Veg,Large,3,Low Density,Medium,August,6:15,6:45,30,36,-6,Early,6,High,Offline,Domino's Cash,TRUE,FALSE
+171,ORD172,Papa John's,Massachusetts,Boston,Vegan,Small,2,Low Density,Very Low,August,8:00,8:30,30,27,3,Delayed,4.5,Medium,Online,Card,TRUE,FALSE
+172,ORD173,Little Caesars,Texas,Dallas,Non-Veg,Medium,3,High Density,Low,August,6:10,6:35,25,18,7,Delayed,3,Low,Online,UPI,TRUE,FALSE
+173,ORD174,Pizza Hut,California,Los Angeles,Cheese Burst,X-Large,5,Medium Density,High,August,7:20,7:50,30,39,-9,Early,6.5,High,Online,Wallet,TRUE,TRUE
+174,ORD175,Marco's Pizza,Georgia,Atlanta,Non-Veg,Medium,3,High Density,Low,June,1:00,1:20,20,18,2,Delayed,3,Medium,Online,Card,FALSE,FALSE
+175,ORD176,Domino's,Colorado,Denver,Veg,Large,4,High Density,Medium,June,6:30,6:50,20,27,-7,Early,4.5,Low,Online,UPI,TRUE,FALSE
+176,ORD177,Papa John's,Massachusetts,Boston,Vegan,Small,2,High Density,Very Low,June,8:15,8:40,25,12,13,Delayed,2,High,Offline,Cash,TRUE,TRUE
+177,ORD178,Little Caesars,Texas,Dallas,Non-Veg,Medium,3,High Density,Low,June,6:30,6:50,20,18,2,Delayed,3,High,Online,UPI,TRUE,TRUE
+178,ORD179,Pizza Hut,California,Los Angeles,Cheese Burst,X-Large,5,High Density,High,June,7:45,8:10,25,27,-2,Early,4.5,Low,Offline,Cash,TRUE,FALSE
+179,ORD180,Marco's Pizza,Illinois,Chicago,Non-Veg,Medium,3,High Density,Low,June,1:00,1:20,20,21,-1,Early,3.5,Medium,Online,Wallet,FALSE,FALSE
+180,ORD181,Domino's,Florida,Miami,Veg,Large,4,High Density,Medium,June,6:30,6:55,25,27,-2,Early,4.5,High,Online,Card,TRUE,FALSE
+181,ORD182,Papa John's,Arizona,Phoenix,Non-Veg,Medium,3,High Density,Low,June,8:00,8:25,25,18,7,Delayed,3,Medium,Online,UPI,TRUE,FALSE
+182,ORD183,Little Caesars,Georgia,Atlanta,Vegan,Small,2,Medium Density,Very Low,June,7:15,7:35,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,FALSE
+183,ORD184,Pizza Hut,Illinois,Chicago,Cheese Burst,X-Large,5,High Density,High,June,7:45,8:10,25,24,1,Delayed,4,High,Online,Wallet,TRUE,TRUE
+184,ORD185,Marco's Pizza,Florida,Miami,Non-Veg,Medium,3,High Density,Low,June,1:00,1:20,20,21,-1,Early,3.5,Low,Online,Card,FALSE,TRUE
+185,ORD186,Domino's,California,Los Angeles,Veg,Large,4,High Density,Medium,July,6:30,6:50,20,27,-7,Early,4.5,Medium,Online,UPI,TRUE,FALSE
+186,ORD187,Papa John's,Colorado,Denver,Vegan,Small,2,High Density,Very Low,July,8:15,8:40,25,12,13,Delayed,2,High,Offline,Cash,TRUE,FALSE
+187,ORD188,Little Caesars,Massachusetts,Boston,Non-Veg,Medium,3,High Density,Low,July,6:30,6:50,20,21,-1,Early,3.5,Low,Online,Wallet,TRUE,FALSE
+188,ORD189,Pizza Hut,Texas,Dallas,Cheese Burst,X-Large,5,High Density,High,July,7:45,8:10,25,24,1,Delayed,4,Medium,Online,Card,TRUE,FALSE
+189,ORD190,Marco's Pizza,Washington,Seattle,Non-Veg,Medium,3,High Density,Low,July,1:00,1:20,20,21,-1,Early,3.5,High,Online,UPI,FALSE,FALSE
+190,ORD191,Domino's,Colorado,Denver,Veg,Large,4,High Density,Medium,July,6:30,6:50,20,27,-7,Early,4.5,Low,Offline,Cash,TRUE,TRUE
+191,ORD192,Papa John's,Massachusetts,Boston,Vegan,Small,2,High Density,Very Low,July,8:15,8:40,25,12,13,Delayed,2,High,Online,Wallet,TRUE,TRUE
+192,ORD193,Little Caesars,Texas,Dallas,Non-Veg,Medium,3,High Density,Low,July,6:30,6:50,20,18,2,Delayed,3,High,Online,UPI,TRUE,FALSE
+193,ORD194,Pizza Hut,California,Los Angeles,Cheese Burst,X-Large,5,High Density,High,July,7:45,8:10,25,27,-2,Early,4.5,Low,Offline,Cash,TRUE,FALSE
+194,ORD195,Marco's Pizza,Illinois,Chicago,Non-Veg,Medium,3,High Density,Low,July,1:00,1:20,20,21,-1,Early,3.5,Medium,Online,Wallet,FALSE,FALSE
+195,ORD196,Domino's,Florida,Miami,Veg,Large,4,High Density,Medium,July,6:30,6:50,20,24,-4,Early,4,High,Online,Card,TRUE,FALSE
+196,ORD197,Papa John's,Texas,Dallas,Non-Veg,Medium,3,High Density,Low,July,8:00,8:25,25,18,7,Delayed,3,Low,Online,UPI,TRUE,FALSE
+197,ORD198,Little Caesars,Texas,Houston,Vegan,Small,2,Medium Density,Very Low,July,7:15,7:35,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,TRUE
+198,ORD199,Pizza Hut,Arizona,Phoenix,Cheese Burst,X-Large,5,High Density,High,July,7:45,8:10,25,27,-2,Early,4.5,High,Online,Wallet,TRUE,TRUE
+199,ORD200,Marco's Pizza,Georgia,Atlanta,Non-Veg,Medium,3,High Density,Low,July,1:00,1:20,20,18,2,Delayed,3,Medium,Online,Card,FALSE,FALSE
+200,ORD201,Domino's,New York,New York,Veg,Large,3,Medium Density,Medium,July,6:30,6:55,25,30,-5,Early,5,High,Online,Card,TRUE,FALSE
+201,ORD202,Papa John's,California,Los Angeles,Non-Veg,Medium,4,High Density,Low,July,7:00,7:30,30,21,9,Delayed,3.5,Medium,Online,UPI,TRUE,FALSE
+202,ORD203,Little Caesars,Illinois,Chicago,Vegan,Small,2,Low Density,Very Low,July,8:15,8:40,25,24,1,Delayed,4,Low,Offline,Cash,TRUE,FALSE
+203,ORD204,Pizza Hut,Texas,Houston,Cheese Burst,X-Large,5,Medium Density,High,July,7:45,8:10,25,36,-11,Early,6,High,Online,Wallet,TRUE,FALSE
+204,ORD205,Marco's Pizza,Arizona,Phoenix,Non-Veg,Medium,3,High Density,Low,July,1:00,1:25,25,18,7,Delayed,3,Low,Online,Card,FALSE,TRUE
+205,ORD206,Domino's,Florida,Miami,Veg,Large,4,Medium Density,Medium,July,6:30,6:55,25,30,-5,Early,5,High,Online,UPI,TRUE,TRUE
+206,ORD207,Papa John's,Colorado,Denver,Vegan,Small,2,Medium Density,Very Low,July,8:15,8:40,25,15,10,Delayed,2.5,Medium,Offline,Cash,TRUE,FALSE
+207,ORD208,Little Caesars,Massachusetts,Boston,Non-Veg,Medium,3,High Density,Low,July,6:30,6:50,20,21,-1,Early,3.5,Low,Online,Wallet,TRUE,FALSE
+208,ORD209,Pizza Hut,Texas,Dallas,Cheese Burst,X-Large,5,High Density,High,July,7:45,8:10,25,24,1,Delayed,4,High,Online,Card,TRUE,FALSE
+209,ORD210,Marco's Pizza,Washington,Seattle,Non-Veg,Medium,3,High Density,Low,July,1:00,1:20,20,21,-1,Early,3.5,Low,Online,UPI,FALSE,FALSE
+210,ORD211,Domino's,Colorado,Denver,Veg,Large,4,High Density,Medium,July,6:30,6:50,20,27,-7,Early,4.5,Medium,Offline,Cash,TRUE,FALSE
+211,ORD212,Papa John's,Massachusetts,Boston,Vegan,Small,2,High Density,Very Low,July,8:15,8:40,25,12,13,Delayed,2,High,Online,Wallet,TRUE,TRUE
+212,ORD213,Little Caesars,Texas,Dallas,Non-Veg,Medium,3,High Density,Low,July,6:30,6:50,20,18,2,Delayed,3,High,Online,UPI,TRUE,TRUE
+213,ORD214,Pizza Hut,California,Los Angeles,Cheese Burst,X-Large,5,High Density,High,July,7:45,8:10,25,27,-2,Early,4.5,Low,Offline,Cash,TRUE,FALSE
+214,ORD215,Marco's Pizza,Illinois,Chicago,Non-Veg,Medium,3,High Density,Low,July,1:00,1:20,20,21,-1,Early,3.5,Medium,Online,Wallet,FALSE,FALSE
+215,ORD216,Domino's,Florida,Miami,Veg,Large,4,High Density,Medium,July,6:30,6:50,20,24,-4,Early,4,High,Online,Card,TRUE,FALSE
+216,ORD217,Papa John's,Texas,Dallas,Non-Veg,Medium,3,High Density,Low,August,8:00,8:25,25,18,7,Delayed,3,Low,Online,UPI,TRUE,FALSE
+217,ORD218,Little Caesars,Texas,Houston,Vegan,Small,2,Medium Density,Very Low,August,7:15,7:35,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,FALSE
+218,ORD219,Pizza Hut,Arizona,Phoenix,Cheese Burst,X-Large,5,High Density,High,August,7:45,8:10,25,27,-2,Early,4.5,High,Online,Wallet,TRUE,TRUE
+219,ORD220,Marco's Pizza,Georgia,Atlanta,Non-Veg,Medium,3,High Density,Low,August,1:00,1:20,20,18,2,Delayed,3,Medium,Online,Card,FALSE,TRUE
+220,ORD221,Domino's,New York,New York,Veg,Large,3,Medium Density,Medium,August,6:30,6:55,25,30,-5,Early,5,High,Online,Card,TRUE,FALSE
+221,ORD222,Papa John's,California,Los Angeles,Non-Veg,Medium,4,High Density,Low,August,7:00,7:30,30,21,9,Delayed,3.5,Medium,Online,UPI,TRUE,FALSE
+222,ORD223,Little Caesars,Illinois,Chicago,Vegan,Small,2,Low Density,Very Low,August,8:15,8:40,25,24,1,Delayed,4,Low,Offline,Cash,TRUE,FALSE
+223,ORD224,Pizza Hut,Texas,Houston,Cheese Burst,X-Large,5,Medium Density,High,August,7:45,8:10,25,36,-11,Early,6,High,Online,Wallet,TRUE,FALSE
+224,ORD225,Marco's Pizza,Arizona,Phoenix,Non-Veg,Medium,3,High Density,Low,August,1:00,1:25,25,18,7,Delayed,3,Low,Online,Card,FALSE,FALSE
+225,ORD226,Domino's,Florida,Miami,Veg,Large,4,Medium Density,Medium,August,6:30,6:55,25,30,-5,Early,5,High,Online,UPI,TRUE,TRUE
+226,ORD227,Papa John's,Colorado,Denver,Vegan,Small,2,Medium Density,Very Low,August,8:15,8:40,25,15,10,Delayed,2.5,Medium,Offline,Cash,TRUE,TRUE
+227,ORD228,Little Caesars,Massachusetts,Boston,Non-Veg,Medium,3,High Density,Low,August,6:30,6:50,20,21,-1,Early,3.5,Low,Online,Wallet,TRUE,FALSE
+228,ORD229,Pizza Hut,California,Los Angeles,Cheese Burst,X-Large,5,High Density,High,August,7:45,8:10,25,27,-2,Early,4.5,Low,Offline,Cash,TRUE,FALSE
+229,ORD230,Domino's,New York,New York,Veg,Large,3,Medium Density,Medium,August,6:30,7:05,35,30,5,Delayed,5,High,Online,UPI,TRUE,FALSE
+230,ORD231,Papa John's,Illinois,Chicago,Non-Veg,Medium,4,High Density,Low,August,8:15,8:40,25,21,4,Delayed,3.5,Medium,Online,Card,TRUE,FALSE
+231,ORD232,Little Caesars,Texas,Houston,Vegan,Small,2,High Density,Very Low,August,7:00,7:20,20,12,8,Delayed,2,Low,Online,Wallet,TRUE,FALSE
+232,ORD233,Marco's Pizza,Arizona,Phoenix,Non-Veg,Medium,3,High Density,Low,August,1:00,1:30,30,18,12,Delayed,3,High,Online,UPI,FALSE,TRUE
+233,ORD234,Domino's,Florida,Miami,Veg,Large,4,Medium Density,Medium,August,6:30,7:10,40,30,10,Delayed,5,High,Online,Card,TRUE,TRUE
+234,ORD235,Papa John's,Colorado,Denver,Vegan,Small,2,Medium Density,Very Low,August,8:15,8:35,20,15,5,Delayed,2.5,Medium,Offline,Cash,TRUE,FALSE
+235,ORD236,Little Caesars,Massachusetts,Boston,Non-Veg,Medium,3,High Density,Low,August,6:30,6:50,20,21,-1,Early,3.5,Low,Online,Wallet,TRUE,FALSE
+236,ORD237,Pizza Hut,Texas,Dallas,Cheese Burst,X-Large,5,High Density,High,August,7:45,8:15,30,24,6,Delayed,4,High,Online,Card,TRUE,FALSE
+237,ORD238,Marco's Pizza,Washington,Seattle,Non-Veg,Medium,3,High Density,Low,August,1:00,1:25,25,21,4,Delayed,3.5,Low,Online,UPI,FALSE,FALSE
+238,ORD239,Domino's,Colorado,Denver,Veg,Large,4,High Density,Medium,August,6:30,6:50,20,27,-7,Early,4.5,Medium,Offline,Cash,TRUE,FALSE
+239,ORD240,Papa John's,Massachusetts,Boston,Vegan,Small,2,High Density,Very Low,August,8:15,8:40,25,12,13,Delayed,2,High,Online,Wallet,TRUE,TRUE
+240,ORD241,Little Caesars,Texas,Dallas,Non-Veg,Medium,3,High Density,Low,August,6:30,6:50,20,18,2,Delayed,3,High,Online,UPI,TRUE,TRUE
+241,ORD242,Pizza Hut,California,Los Angeles,Cheese Burst,X-Large,5,High Density,High,August,7:45,8:10,25,27,-2,Early,4.5,Low,Offline,Cash,TRUE,FALSE
+242,ORD243,Marco's Pizza,Illinois,Chicago,Non-Veg,Medium,3,High Density,Low,August,1:00,1:20,20,21,-1,Early,3.5,Medium,Online,Wallet,FALSE,FALSE
+243,ORD244,Domino's,Florida,Miami,Veg,Large,4,Medium Density,Medium,August,6:30,6:55,25,30,-5,Early,5,High,Online,Card,TRUE,FALSE
+244,ORD245,Papa John's,Colorado,Denver,Vegan,Small,2,Medium Density,Very Low,August,8:15,8:40,25,15,10,Delayed,2.5,Medium,Offline,Cash,TRUE,FALSE
+245,ORD246,Little Caesars,Massachusetts,Boston,Non-Veg,Medium,3,High Density,Low,August,6:30,6:50,20,21,-1,Early,3.5,Low,Online,Wallet,TRUE,FALSE
+246,ORD247,Pizza Hut,Texas,Dallas,Cheese Burst,X-Large,5,High Density,High,August,7:45,8:10,25,24,1,Delayed,4,High,Online,Card,TRUE,TRUE
+247,ORD248,Marco's Pizza,Washington,Seattle,Non-Veg,Medium,3,High Density,Low,September,1:00,1:20,20,21,-1,Early,3.5,Low,Online,UPI,FALSE,TRUE
+248,ORD249,Domino's,Colorado,Denver,Veg,Large,4,High Density,Medium,September,6:30,6:50,20,27,-7,Early,4.5,Medium,Offline,Cash,TRUE,FALSE
+249,ORD250,Papa John's,Massachusetts,Boston,Vegan,Small,2,High Density,Very Low,September,8:15,8:40,25,12,13,Delayed,2,High,Online,Wallet,TRUE,FALSE
+250,ORD251,Little Caesars,Texas,Dallas,Non-Veg,Medium,3,High Density,Low,September,6:30,6:50,20,18,2,Delayed,3,High,Online,UPI,TRUE,FALSE
+251,ORD252,Pizza Hut,California,Los Angeles,Cheese Burst,X-Large,5,High Density,High,September,7:45,8:10,25,27,-2,Early,4.5,Low,Offline,Cash,TRUE,FALSE
+252,ORD253,Marco's Pizza,Illinois,Chicago,Non-Veg,Medium,3,High Density,Low,September,1:00,1:20,20,21,-1,Early,3.5,Medium,Online,Wallet,FALSE,FALSE
+253,ORD254,Domino's,Florida,Miami,Veg,Large,4,Medium Density,Medium,September,6:30,6:55,25,30,-5,Early,5,High,Online,Card,TRUE,TRUE
+254,ORD255,Papa John's,Colorado,Denver,Vegan,Small,2,Medium Density,Very Low,September,8:15,8:40,25,15,10,Delayed,2.5,Medium,Offline,Cash,TRUE,TRUE
+255,ORD256,Little Caesars,Massachusetts,Boston,Non-Veg,Medium,3,High Density,Low,September,6:30,6:50,20,21,-1,Early,3.5,Low,Online,Wallet,TRUE,FALSE
+256,ORD257,Domino's,California,San Francisco,Veg,Large,3,Medium Density,Medium,September,6:00,6:25,25,30,-5,Early,5,High,Offline,Cash,TRUE,FALSE
+257,ORD258,Domino's,Texas,Austin,Non-Veg,Medium,2,Low Density,Very Low,September,7:15,7:35,20,21,-1,Early,3.5,Medium,Online,Card,TRUE,FALSE
+258,ORD259,Domino's,Washington,Seattle,Vegan,Small,1,Low Density,Very Low,September,8:30,8:50,20,15,5,Delayed,2.5,Low,Online,Wallet,TRUE,FALSE
+259,ORD260,Domino's,Illinois,Chicago,Cheese Burst,X-Large,5,High Density,High,September,6:45,7:10,25,27,-2,Early,4.5,High,Online,UPI,TRUE,FALSE
+260,ORD261,Domino's,Florida,Miami,Non-Veg,Medium,3,High Density,Low,September,7:00,7:20,20,18,2,Delayed,3,Medium,Offline,Cash,TRUE,TRUE
+261,ORD262,Domino's,Colorado,Denver,Veg,Large,4,Medium Density,Medium,September,8:00,8:25,25,30,-5,Early,5,High,Online,Card,TRUE,TRUE
+262,ORD263,Domino's,Massachusetts,Boston,Vegan,Small,2,High Density,Very Low,September,6:30,6:50,20,12,8,Delayed,2,Low,Online,Wallet,TRUE,FALSE
+263,ORD264,Domino's,Texas,Dallas,Cheese Burst,X-Large,5,High Density,High,September,7:45,8:10,25,27,-2,Early,4.5,Medium,Online,UPI,TRUE,FALSE
+264,ORD265,Domino's,California,Los Angeles,Non-Veg,Medium,3,High Density,Low,September,6:00,6:20,20,21,-1,Early,3.5,High,Offline,Cash,TRUE,FALSE
+265,ORD266,Domino's,New York,New York,Veg,Large,4,Medium Density,Medium,September,8:15,8:40,25,30,-5,Early,5,High,Online,Card,TRUE,FALSE
+266,ORD267,Domino's,California,San Jose,Veg,Medium,2,Medium Density,Very Low,September,6:00,6:20,20,18,2,Delayed,3,Low,Offline,Cash,TRUE,FALSE
+267,ORD268,Papa John's,Texas,Austin,Non-Veg,Large,4,Medium Density,Medium,September,7:15,7:45,30,36,-6,Early,6,Medium,Online,Card,TRUE,FALSE
+268,ORD269,Pizza Hut,Washington,Seattle,Cheese Burst,X-Large,5,Medium Density,High,September,8:30,9:10,40,48,-8,Early,8,High,Online,Wallet,TRUE,FALSE
+269,ORD270,Little Caesars,Illinois,Chicago,Vegan,Small,1,Low Density,Very Low,September,6:45,7:05,20,15,5,Delayed,2.5,Low,Online,UPI,TRUE,FALSE
+270,ORD271,Marco's Pizza,Florida,Miami,Non-Veg,Large,4,Low Density,Medium,September,7:00,7:50,50,60,-10,Early,10,High,Offline,Cash,TRUE,TRUE
+271,ORD272,Domino's,Colorado,Denver,Veg,Medium,3,Low Density,Low,September,8:00,8:35,35,33,2,Delayed,5.5,Medium,Online,Card,TRUE,TRUE
+272,ORD273,Papa John's,Massachusetts,Boston,Vegan,Small,2,High Density,Very Low,September,6:30,6:50,20,12,8,Delayed,2,Low,Online,Wallet,TRUE,FALSE
+273,ORD274,Pizza Hut,Texas,Dallas,Cheese Burst,X-Large,5,Medium Density,High,September,7:45,8:25,40,45,-5,Early,7.5,High,Online,UPI,TRUE,FALSE
+274,ORD275,Little Caesars,California,Los Angeles,Non-Veg,Medium,3,Medium Density,Low,September,6:00,6:30,30,24,6,Delayed,4,Medium,Offline,Cash,TRUE,FALSE
+275,ORD276,Marco's Pizza,New York,New York,Veg,Large,4,Low Density,Medium,September,8:15,9:00,45,54,-9,Early,9,High,Online,Card,TRUE,FALSE
+276,ORD278,Domino's,New York,New York,Veg,Large,3,Medium Density,Medium,September,6:45,7:10,25,30,-5,Early,5,High,Offline,Domino's Cash,TRUE,TRUE
+277,ORD279,Pizza Hut,California,Los Angeles,Cheese Burst,X-Large,5,Medium Density,High,September,8:00,8:30,30,39,-9,Early,6.5,Medium,Online,Card,TRUE,FALSE
+278,ORD280,Papa John's,Illinois,Chicago,Non-Veg,Medium,4,High Density,Low,September,7:15,7:35,20,24,-4,Early,4,Low,Online,UPI,TRUE,FALSE
+279,ORD281,Little Caesars,Texas,Houston,Vegan,Small,2,Low Density,Very Low,September,6:30,7:05,35,45,-10,Early,7.5,High,Online,Wallet,TRUE,FALSE
+280,ORD282,Marco's Pizza,Arizona,Phoenix,Non-Veg,Medium,3,High Density,Low,September,1:00,1:20,20,21,-1,Early,3.5,Low,Online,Card,FALSE,FALSE
+281,ORD283,Domino's,Florida,Miami,Veg,Large,4,Medium Density,Medium,September,6:45,7:15,30,36,-6,Early,6,Medium,Offline,Domino's Cash,TRUE,FALSE
+282,ORD284,Pizza Hut,Colorado,Denver,Cheese Burst,X-Large,5,High Density,High,September,8:15,8:40,25,30,-5,Early,5,Low,Online,UPI,TRUE,TRUE
+283,ORD285,Papa John's,Massachusetts,Boston,Vegan,Small,2,Low Density,Very Low,September,7:30,7:55,25,24,1,Delayed,4,High,Online,Wallet,TRUE,TRUE
+284,ORD286,Little Caesars,Texas,Dallas,Non-Veg,Medium,3,High Density,Low,September,6:00,6:20,20,18,2,Delayed,3,Medium,Online,Card,TRUE,FALSE
+285,ORD287,Marco's Pizza,Washington,Seattle,Non-Veg,Medium,3,Low Density,Low,September,1:15,1:45,30,36,-6,Early,6,High,Online,UPI,FALSE,FALSE
+286,ORD288,Domino's,New York,New York,Veg,Large,4,Medium Density,Medium,September,6:30,7:00,30,33,-3,Early,5.5,High,Offline,Domino's Cash,TRUE,FALSE
+287,ORD289,Pizza Hut,California,Los Angeles,Cheese Burst,X-Large,5,High Density,High,September,7:45,8:10,25,27,-2,Early,4.5,Low,Offline,Cash,TRUE,FALSE
+288,ORD290,Papa John's,Illinois,Chicago,Non-Veg,Medium,4,High Density,Low,September,8:15,8:40,25,21,4,Delayed,3.5,Medium,Online,Card,TRUE,FALSE
+289,ORD291,Little Caesars,Texas,Houston,Vegan,Small,2,High Density,Very Low,September,6:30,6:50,20,12,8,Delayed,2,Low,Online,Wallet,TRUE,TRUE
+290,ORD292,Marco's Pizza,Arizona,Phoenix,Non-Veg,Medium,3,High Density,Low,September,1:00,1:20,20,18,2,Delayed,3,Low,Online,UPI,FALSE,TRUE
+291,ORD293,Domino's,Florida,Miami,Veg,Large,4,Medium Density,Medium,September,6:30,6:55,25,30,-5,Early,5,High,Offline,Domino's Cash,TRUE,FALSE
+292,ORD294,Pizza Hut,Colorado,Denver,Cheese Burst,X-Large,5,High Density,High,October,7:45,8:10,25,24,1,Delayed,4,High,Online,Card,TRUE,FALSE
+293,ORD295,Papa John's,Massachusetts,Boston,Vegan,Small,2,Medium Density,Very Low,October,8:15,8:40,25,15,10,Delayed,2.5,Medium,Online,Wallet,TRUE,FALSE
+294,ORD296,Little Caesars,Texas,Dallas,Non-Veg,Medium,3,High Density,Low,October,6:30,6:50,20,21,-1,Early,3.5,Low,Online,UPI,TRUE,FALSE
+295,ORD297,Marco's Pizza,Washington,Seattle,Non-Veg,Medium,3,High Density,Low,October,1:00,1:20,20,21,-1,Early,3.5,Low,Online,Card,FALSE,FALSE
+296,ORD298,Domino's,New York,New York,Veg,Large,4,Medium Density,Medium,October,6:30,6:55,25,30,-5,Early,5,High,Offline,Domino's Cash,TRUE,TRUE
+297,ORD299,Pizza Hut,California,Los Angeles,Cheese Burst,X-Large,5,High Density,High,October,7:45,8:10,25,27,-2,Early,4.5,Low,Offline,Cash,TRUE,TRUE
+298,ORD300,Papa John's,Illinois,Chicago,Non-Veg,Medium,4,High Density,Low,October,8:15,8:40,25,21,4,Delayed,3.5,Medium,Online,Card,TRUE,FALSE
+299,ORD301,Little Caesars,Texas,Houston,Vegan,Small,2,High Density,Very Low,October,6:30,6:50,20,12,8,Delayed,2,Low,Online,Wallet,TRUE,FALSE
+300,ORD302,Marco's Pizza,Arizona,Phoenix,Non-Veg,Medium,3,High Density,Low,October,1:00,1:20,20,18,2,Delayed,3,Low,Online,UPI,FALSE,FALSE
+301,ORD303,Domino's,Florida,Miami,Veg,Large,4,Medium Density,Medium,October,6:30,6:55,25,30,-5,Early,5,High,Offline,Domino's Cash,TRUE,FALSE
+302,ORD304,Pizza Hut,Colorado,Denver,Cheese Burst,X-Large,5,High Density,High,October,7:45,8:10,25,27,-2,Early,4.5,Low,Online,Card,TRUE,FALSE
+303,ORD305,Papa John's,Massachusetts,Boston,Vegan,Small,2,Medium Density,Very Low,October,8:15,8:40,25,15,10,Delayed,2.5,Medium,Online,Wallet,TRUE,TRUE
+304,ORD306,Little Caesars,Texas,Dallas,Non-Veg,Medium,3,High Density,Low,October,6:30,6:50,20,21,-1,Early,3.5,Low,Online,UPI,TRUE,TRUE
+305,ORD307,Domino's,New York,New York,Veg,Medium,2,Medium Density,Very Low,August,6:00,6:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,FALSE
+306,ORD308,Papa John's,Illinois,Chicago,Non-Veg,Large,4,Medium Density,Medium,August,7:15,7:45,30,36,-6,Early,6,Medium,Online,UPI,TRUE,FALSE
+307,ORD309,Pizza Hut,California,Los Angeles,Cheese Burst,X-Large,5,Medium Density,High,August,8:30,9:10,40,48,-8,Early,8,High,Offline,Hut Points,TRUE,FALSE
+308,ORD310,Little Caesars,Texas,Houston,Vegan,Small,1,Low Density,Very Low,August,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,FALSE
+309,ORD311,Marco's Pizza,Arizona,Phoenix,Non-Veg,Large,4,Low Density,Medium,August,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,FALSE
+310,ORD312,Domino's,Florida,Miami,Veg,Medium,3,Low Density,Low,August,8:00,8:35,35,33,2,Delayed,5.5,Medium,Online,Wallet,TRUE,TRUE
+311,ORD313,Papa John's,Colorado,Denver,Vegan,Small,2,High Density,Very Low,September,6:30,6:50,20,12,8,Delayed,2,Low,Online,UPI,TRUE,TRUE
+312,ORD314,Pizza Hut,Massachusetts,Boston,Cheese Burst,X-Large,5,Medium Density,High,September,7:45,8:25,40,45,-5,Early,7.5,High,Offline,Hut Points,TRUE,FALSE
+313,ORD315,Little Caesars,Texas,Dallas,Non-Veg,Medium,3,Medium Density,Low,September,6:00,6:30,30,24,6,Delayed,4,Medium,Offline,Cash,TRUE,FALSE
+314,ORD316,Marco's Pizza,Washington,Seattle,Veg,Large,4,Low Density,Medium,September,8:15,9:00,45,54,-9,Early,9,High,Online,Wallet,TRUE,FALSE
+315,ORD317,Domino's,California,San Jose,Veg,Medium,2,Medium Density,Very Low,September,6:00,6:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,FALSE
+316,ORD318,Papa John's,Texas,Austin,Non-Veg,Large,4,Medium Density,Medium,September,7:15,7:45,30,36,-6,Early,6,Medium,Offline,Cash,TRUE,FALSE
+317,ORD319,Pizza Hut,California,San Diego,Cheese Burst,X-Large,5,Medium Density,High,September,8:30,9:10,40,48,-8,Early,8,High,Offline,Hut Points,TRUE,TRUE
+318,ORD320,Little Caesars,Florida,Jacksonville,Vegan,Small,1,Low Density,Very Low,September,6:45,7:05,20,15,5,Delayed,2.5,Low,Online,Wallet,TRUE,TRUE
+319,ORD321,Marco's Pizza,Texas,Fort Worth,Non-Veg,Large,4,Low Density,Medium,September,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,FALSE
+320,ORD322,Domino's,Ohio,Columbus,Veg,Medium,3,Low Density,Low,September,8:00,8:35,35,33,2,Delayed,5.5,Medium,Online,Wallet,TRUE,FALSE
+321,ORD323,Papa John's,North Carolina,Charlotte,Vegan,Small,2,High Density,Very Low,September,6:30,6:50,20,12,8,Delayed,2,Low,Online,UPI,TRUE,FALSE
+322,ORD324,Pizza Hut,Indiana,Indianapolis,Cheese Burst,X-Large,5,Medium Density,High,September,7:45,8:25,40,45,-5,Early,7.5,High,Offline,Hut Points,TRUE,FALSE
+323,ORD325,Little Caesars,California,San Francisco,Non-Veg,Medium,3,Medium Density,Low,September,6:00,6:30,30,24,6,Delayed,4,Medium,Offline,Cash,TRUE,FALSE
+324,ORD326,Marco's Pizza,North Carolina,Charlotte,Veg,Large,4,Low Density,Medium,September,8:15,9:00,45,54,-9,Early,9,High,Online,Wallet,TRUE,TRUE
+325,ORD327,Domino's,Michigan,Detroit,Veg,Medium,2,Medium Density,Very Low,September,6:00,6:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,TRUE
+326,ORD328,Papa John's,Texas,El Paso,Non-Veg,Large,4,Medium Density,Medium,September,7:15,7:45,30,36,-6,Early,6,Medium,Offline,Cash,TRUE,FALSE
+327,ORD329,Pizza Hut,Tennessee,Memphis,Cheese Burst,X-Large,5,Medium Density,High,September,8:30,9:10,40,48,-8,Early,8,High,Offline,Hut Points,TRUE,FALSE
+328,ORD330,Little Caesars,Maryland,Baltimore,Vegan,Small,1,Low Density,Very Low,September,6:45,7:05,20,15,5,Delayed,2.5,Low,Online,Wallet,TRUE,FALSE
+329,ORD331,Marco's Pizza,Massachusetts,Boston,Non-Veg,Large,4,Low Density,Medium,September,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,FALSE
+330,ORD332,Domino's,New York,New York,Veg,Medium,2,Medium Density,Very Low,September,6:00,6:20,20,18,2,Delayed,3,Low,Offline,Domino's Cash,TRUE,FALSE
+331,ORD333,Papa John's,Illinois,Chicago,Non-Veg,Large,4,Medium Density,Medium,September,7:15,7:45,30,36,-6,Early,6,Medium,Online,UPI,TRUE,TRUE
+332,ORD334,Pizza Hut,California,Los Angeles,Cheese Burst,X-Large,5,Medium Density,High,September,8:30,9:10,40,48,-8,Early,8,High,Offline,Hut Points,TRUE,TRUE
+333,ORD335,Little Caesars,Texas,Houston,Vegan,Small,1,Low Density,Very Low,September,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,FALSE
+334,ORD336,Marco's Pizza,Arizona,Phoenix,Non-Veg,Large,4,Low Density,Medium,September,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,FALSE
+335,ORD337,Domino's,Florida,Miami,Veg,Medium,2,Medium Density,Very Low,September,8:00,8:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,FALSE
+336,ORD338,Papa John's,Illinois,Chicago,Non-Veg,Large,4,Medium Density,Medium,September,7:15,7:45,30,36,-6,Early,6,Medium,Online,UPI,TRUE,FALSE
+337,ORD339,Pizza Hut,California,Los Angeles,Cheese Burst,X-Large,5,Medium Density,High,September,8:30,9:10,40,48,-8,Early,8,High,Offline,Hut Points,TRUE,FALSE
+338,ORD340,Little Caesars,Texas,Houston,Vegan,Small,1,Low Density,Very Low,September,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,TRUE
+339,ORD341,Marco's Pizza,Arizona,Phoenix,Non-Veg,Large,4,Low Density,Medium,September,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,TRUE
+340,ORD342,Domino's,Florida,Miami,Veg,Medium,3,Low Density,Low,September,8:00,8:35,35,33,2,Delayed,5.5,Medium,Online,Wallet,TRUE,FALSE
+341,ORD343,Papa John's,Colorado,Denver,Vegan,Small,2,High Density,Very Low,October,6:30,6:50,20,12,8,Delayed,2,Low,Online,UPI,TRUE,FALSE
+342,ORD344,Pizza Hut,Massachusetts,Boston,Cheese Burst,X-Large,5,Medium Density,High,October,7:45,8:25,40,45,-5,Early,7.5,High,Offline,Hut Points,TRUE,FALSE
+343,ORD345,Little Caesars,Texas,Dallas,Non-Veg,Medium,3,Medium Density,Low,October,6:00,6:30,30,24,6,Delayed,4,Medium,Offline,Cash,TRUE,FALSE
+344,ORD346,Marco's Pizza,Washington,Seattle,Veg,Large,4,Low Density,Medium,October,8:15,9:00,45,54,-9,Early,9,High,Online,Wallet,TRUE,FALSE
+345,ORD347,Domino's,California,San Jose,Veg,Medium,2,Medium Density,Very Low,October,6:00,6:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,TRUE
+346,ORD348,Papa John's,Texas,Austin,Non-Veg,Large,4,Medium Density,Medium,October,7:15,7:45,30,36,-6,Early,6,Medium,Offline,Cash,TRUE,TRUE
+347,ORD349,Pizza Hut,California,San Diego,Cheese Burst,X-Large,5,Medium Density,High,October,8:30,9:10,40,48,-8,Early,8,High,Offline,Hut Points,TRUE,FALSE
+348,ORD350,Little Caesars,Florida,Jacksonville,Vegan,Small,1,Low Density,Very Low,October,6:45,7:05,20,15,5,Delayed,2.5,Low,Online,Wallet,TRUE,FALSE
+349,ORD351,Marco's Pizza,Texas,Fort Worth,Non-Veg,Large,4,Low Density,Medium,October,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,FALSE
+350,ORD352,Domino's,Ohio,Columbus,Veg,Medium,3,Low Density,Low,October,8:00,8:35,35,33,2,Delayed,5.5,Medium,Online,Wallet,TRUE,FALSE
+351,ORD353,Papa John's,North Carolina,Charlotte,Vegan,Small,2,High Density,Very Low,October,6:30,6:50,20,12,8,Delayed,2,Low,Online,UPI,TRUE,FALSE
+352,ORD354,Pizza Hut,Indiana,Indianapolis,Cheese Burst,X-Large,5,Medium Density,High,October,7:45,8:25,40,45,-5,Early,7.5,High,Offline,Hut Points,TRUE,TRUE
+353,ORD355,Little Caesars,California,San Francisco,Non-Veg,Medium,3,Medium Density,Low,October,6:00,6:30,30,24,6,Delayed,4,Medium,Offline,Cash,TRUE,TRUE
+354,ORD356,Marco's Pizza,North Carolina,Charlotte,Veg,Large,4,Low Density,Medium,October,8:15,9:00,45,54,-9,Early,9,High,Online,Wallet,TRUE,FALSE
+355,ORD357,Domino's,Michigan,Detroit,Veg,Medium,2,Medium Density,Very Low,October,6:00,6:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,FALSE
+356,ORD358,Papa John's,Texas,El Paso,Non-Veg,Large,4,Medium Density,Medium,October,7:15,7:45,30,36,-6,Early,6,Medium,Online,Wallet,TRUE,FALSE
+357,ORD359,Pizza Hut,Tennessee,Memphis,Cheese Burst,X-Large,5,Medium Density,High,October,8:30,9:10,40,48,-8,Early,8,High,Offline,Hut Points,TRUE,FALSE
+358,ORD360,Little Caesars,Maryland,Baltimore,Vegan,Small,1,Low Density,Very Low,October,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,FALSE
+359,ORD361,Marco's Pizza,Massachusetts,Boston,Non-Veg,Large,4,Low Density,Medium,October,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,TRUE
+360,ORD362,Domino's,New York,New York,Veg,Medium,2,Medium Density,Very Low,October,6:00,6:20,20,18,2,Delayed,3,Low,Offline,Domino's Cash,TRUE,TRUE
+361,ORD363,Domino's,Florida,Miami,Veg,Medium,2,Medium Density,Very Low,October,8:00,8:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,FALSE
+362,ORD364,Papa John's,Illinois,Chicago,Non-Veg,Large,4,Medium Density,Medium,October,7:15,7:45,30,36,-6,Early,6,Medium,Online,UPI,TRUE,FALSE
+363,ORD365,Pizza Hut,California,Los Angeles,Cheese Burst,X-Large,5,Medium Density,High,October,8:30,9:10,40,48,-8,Early,8,High,Offline,Hut Points,TRUE,FALSE
+364,ORD366,Little Caesars,Texas,Houston,Vegan,Small,1,Low Density,Very Low,October,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,FALSE
+365,ORD367,Marco's Pizza,Arizona,Phoenix,Non-Veg,Large,4,Low Density,Medium,October,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,FALSE
+366,ORD368,Domino's,Florida,Miami,Veg,Medium,3,Low Density,Low,October,8:00,8:35,35,33,2,Delayed,5.5,Medium,Online,Wallet,TRUE,TRUE
+367,ORD369,Papa John's,Colorado,Denver,Vegan,Small,2,High Density,Very Low,October,6:30,6:50,20,12,8,Delayed,2,Low,Online,UPI,TRUE,TRUE
+368,ORD370,Pizza Hut,Massachusetts,Boston,Cheese Burst,X-Large,5,Medium Density,High,October,7:45,8:25,40,45,-5,Early,7.5,High,Offline,Hut Points,TRUE,FALSE
+369,ORD371,Little Caesars,Texas,Dallas,Non-Veg,Medium,3,Medium Density,Low,October,6:00,6:30,30,24,6,Delayed,4,Medium,Online,Card,TRUE,FALSE
+370,ORD372,Marco's Pizza,Washington,Seattle,Veg,Large,4,Low Density,Medium,October,8:15,9:00,45,54,-9,Early,9,High,Online,Wallet,TRUE,FALSE
+371,ORD373,Domino's,California,San Jose,Veg,Medium,2,Medium Density,Very Low,October,6:00,6:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,FALSE
+372,ORD374,Papa John's,Texas,Austin,Non-Veg,Large,4,Medium Density,Medium,November,7:15,7:45,30,36,-6,Early,6,Medium,Offline,Cash,TRUE,FALSE
+373,ORD375,Pizza Hut,California,San Diego,Cheese Burst,X-Large,5,Medium Density,High,November,8:30,9:10,40,48,-8,Early,8,High,Offline,Hut Points,TRUE,TRUE
+374,ORD376,Little Caesars,Florida,Jacksonville,Vegan,Small,1,Low Density,Very Low,November,6:45,7:05,20,15,5,Delayed,2.5,Low,Online,Wallet,TRUE,TRUE
+375,ORD377,Marco's Pizza,Texas,Fort Worth,Non-Veg,Large,4,Low Density,Medium,November,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,FALSE
+376,ORD378,Domino's,Ohio,Columbus,Veg,Medium,3,Low Density,Low,November,8:00,8:35,35,33,2,Delayed,5.5,Medium,Online,Wallet,TRUE,FALSE
+377,ORD379,Papa John's,North Carolina,Charlotte,Vegan,Small,2,High Density,Very Low,November,6:30,6:50,20,12,8,Delayed,2,Low,Online,UPI,TRUE,FALSE
+378,ORD380,Pizza Hut,Indiana,Indianapolis,Cheese Burst,X-Large,5,Medium Density,High,November,7:45,8:25,40,45,-5,Early,7.5,High,Offline,Hut Points,TRUE,FALSE
+379,ORD381,Little Caesars,California,San Francisco,Non-Veg,Medium,3,Medium Density,Low,November,6:00,6:30,30,24,6,Delayed,4,Medium,Online,UPI,TRUE,FALSE
+380,ORD382,Marco's Pizza,North Carolina,Charlotte,Veg,Large,4,Low Density,Medium,November,8:15,9:00,45,54,-9,Early,9,High,Offline,Cash,TRUE,TRUE
+381,ORD383,Domino's,Michigan,Detroit,Veg,Medium,2,Medium Density,Very Low,November,6:00,6:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,TRUE
+382,ORD384,Papa John's,Texas,El Paso,Non-Veg,Large,4,Medium Density,Medium,November,7:15,7:45,30,36,-6,Early,6,Medium,Online,Wallet,TRUE,FALSE
+383,ORD385,Pizza Hut,Tennessee,Memphis,Cheese Burst,X-Large,5,Medium Density,High,November,8:30,9:10,40,48,-8,Early,8,High,Offline,Hut Points,TRUE,FALSE
+384,ORD386,Little Caesars,Maryland,Baltimore,Vegan,Small,1,Low Density,Very Low,November,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,FALSE
+385,ORD387,Marco's Pizza,Massachusetts,Boston,Non-Veg,Large,4,Low Density,Medium,November,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,FALSE
+386,ORD388,Domino's,New York,New York,Veg,Medium,2,Medium Density,Very Low,November,6:00,6:20,20,18,2,Delayed,3,Low,Offline,Domino's Cash,TRUE,FALSE
+387,ORD389,Domino's,Florida,Miami,Veg,Medium,2,Medium Density,Very Low,November,8:00,8:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,TRUE
+388,ORD390,Papa John's,Illinois,Chicago,Non-Veg,Large,4,Medium Density,Medium,November,7:15,7:45,30,36,-6,Early,6,Medium,Online,UPI,TRUE,TRUE
+389,ORD391,Pizza Hut,California,Los Angeles,Cheese Burst,X-Large,5,Medium Density,High,November,8:30,9:10,40,48,-8,Early,8,High,Offline,Hut Points,TRUE,FALSE
+390,ORD392,Little Caesars,Texas,Houston,Vegan,Small,1,Low Density,Very Low,November,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,FALSE
+391,ORD393,Marco's Pizza,Arizona,Phoenix,Non-Veg,Large,4,Low Density,Medium,November,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,FALSE
+392,ORD394,Domino's,Florida,Miami,Gluten-Free,Medium,3,Low Density,Low,November,8:00,8:35,35,33,2,Delayed,5.5,Medium,Online,Wallet,TRUE,FALSE
+393,ORD395,Papa John's,Colorado,Denver,Vegan,Small,2,High Density,Very Low,November,6:30,6:50,20,12,8,Delayed,2,Low,Online,UPI,TRUE,FALSE
+394,ORD396,Pizza Hut,Massachusetts,Boston,Stuffed Crust,X-Large,5,Medium Density,High,November,7:45,8:25,40,45,-5,Early,7.5,High,Offline,Hut Points,TRUE,TRUE
+395,ORD397,Little Caesars,Texas,Dallas,Non-Veg,Medium,3,Medium Density,Low,November,6:00,6:30,30,24,6,Delayed,4,Medium,Online,Card,TRUE,TRUE
+396,ORD398,Marco's Pizza,Washington,Seattle,Veg,Large,4,Low Density,Medium,November,8:15,9:00,45,54,-9,Early,9,High,Online,Wallet,TRUE,FALSE
+397,ORD399,Domino's,California,San Jose,Veg,Medium,2,Medium Density,Very Low,November,6:00,6:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,FALSE
+398,ORD400,Papa John's,Texas,Austin,Non-Veg,Large,4,Medium Density,Medium,November,7:15,7:45,30,36,-6,Early,6,Medium,Offline,Cash,TRUE,FALSE
+399,ORD401,Pizza Hut,California,San Diego,Cheese Burst,X-Large,5,Medium Density,High,November,8:30,9:10,40,48,-8,Early,8,High,Offline,Hut Points,TRUE,FALSE
+400,ORD402,Little Caesars,Florida,Jacksonville,Vegan,Small,1,Low Density,Very Low,November,6:45,7:05,20,15,5,Delayed,2.5,Low,Online,Wallet,TRUE,FALSE
+401,ORD403,Marco's Pizza,Texas,Fort Worth,Non-Veg,Large,4,Low Density,Medium,November,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,TRUE
+402,ORD404,Domino's,Ohio,Columbus,Veg,Medium,3,Low Density,Low,December,8:00,8:35,35,33,2,Delayed,5.5,Medium,Online,Wallet,TRUE,TRUE
+403,ORD405,Papa John's,North Carolina,Charlotte,Vegan,Small,2,High Density,Very Low,December,6:30,6:50,20,12,8,Delayed,2,Low,Online,UPI,TRUE,FALSE
+404,ORD406,Pizza Hut,Indiana,Indianapolis,Stuffed Crust,X-Large,5,Medium Density,High,December,7:45,8:25,40,45,-5,Early,7.5,High,Offline,Hut Points,TRUE,FALSE
+405,ORD407,Little Caesars,California,San Francisco,Non-Veg,Medium,3,Medium Density,Low,December,6:00,6:30,30,24,6,Delayed,4,Medium,Online,UPI,TRUE,FALSE
+406,ORD408,Marco's Pizza,North Carolina,Charlotte,Veg,Large,4,Low Density,Medium,December,8:15,9:00,45,54,-9,Early,9,High,Offline,Cash,TRUE,FALSE
+407,ORD409,Domino's,Michigan,Detroit,Veg,Medium,2,Medium Density,Very Low,December,6:00,6:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,FALSE
+408,ORD410,Papa John's,Texas,El Paso,Non-Veg,Large,4,Medium Density,Medium,December,7:15,7:45,30,36,-6,Early,6,Medium,Online,Wallet,TRUE,TRUE
+409,ORD411,Pizza Hut,Tennessee,Memphis,Cheese Burst,X-Large,5,Medium Density,High,December,8:30,9:10,40,48,-8,Early,8,High,Offline,Hut Points,TRUE,TRUE
+410,ORD412,Little Caesars,Maryland,Baltimore,Vegan,Small,1,Low Density,Very Low,December,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,FALSE
+411,ORD413,Marco's Pizza,Massachusetts,Boston,Non-Veg,Large,4,Low Density,Medium,December,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,FALSE
+412,ORD414,Domino's,New York,New York,Veg,Medium,2,Medium Density,Very Low,December,6:00,6:20,20,18,2,Delayed,3,Low,Offline,Domino's Cash,TRUE,FALSE
+413,ORD415,Domino's,Florida,Miami,Thin Crust,Medium,2,Medium Density,Very Low,December,8:00,8:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,FALSE
+414,ORD416,Papa John's,Illinois,Chicago,Deep Dish,Large,4,Medium Density,Medium,December,7:15,7:45,30,36,-6,Early,6,Medium,Online,UPI,TRUE,FALSE
+415,ORD417,Pizza Hut,California,Los Angeles,Cheese Burst,X-Large,5,Medium Density,High,December,8:30,9:10,40,48,-8,Early,8,High,Offline,Hut Points,TRUE,TRUE
+416,ORD418,Little Caesars,Texas,Houston,Vegan,Small,1,Low Density,Very Low,December,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,TRUE
+417,ORD419,Marco's Pizza,Arizona,Phoenix,Non-Veg,Large,4,Low Density,Medium,December,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,FALSE
+418,ORD420,Domino's,Florida,Miami,Gluten-Free,Medium,3,Low Density,Low,December,8:00,8:35,35,33,2,Delayed,5.5,Medium,Online,Wallet,TRUE,FALSE
+419,ORD421,Papa John's,Colorado,Denver,Vegan,Small,2,High Density,Very Low,December,6:30,6:50,20,12,8,Delayed,2,Low,Online,UPI,TRUE,FALSE
+420,ORD422,Pizza Hut,Massachusetts,Boston,Stuffed Crust,X-Large,5,Medium Density,High,December,7:45,8:25,40,45,-5,Early,7.5,High,Online,Card,TRUE,FALSE
+421,ORD423,Little Caesars,Texas,Dallas,Non-Veg,Medium,3,Medium Density,Low,December,6:00,6:30,30,24,6,Delayed,4,Medium,Online,Card,TRUE,FALSE
+422,ORD424,Marco's Pizza,Washington,Seattle,Veg,Large,4,Low Density,Medium,December,8:15,9:00,45,54,-9,Early,9,High,Online,Wallet,TRUE,TRUE
+423,ORD425,Domino's,Florida,Miami,Thin Crust,Medium,2,Medium Density,Very Low,December,8:00,8:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,FALSE
+424,ORD426,Papa John's,Illinois,Chicago,Deep Dish,Large,4,Medium Density,Medium,December,7:15,7:45,30,36,-6,Early,6,Medium,Online,UPI,TRUE,FALSE
+425,ORD427,Pizza Hut,California,Los Angeles,Cheese Burst,X-Large,5,Medium Density,High,December,8:30,9:10,40,48,-8,Early,8,High,Offline,Hut Points,TRUE,TRUE
+426,ORD428,Little Caesars,Texas,Houston,Vegan,Small,1,Low Density,Very Low,December,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,TRUE
+427,ORD429,Marco's Pizza,Arizona,Phoenix,Non-Veg,Large,4,Low Density,Medium,December,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,FALSE
+428,ORD430,Domino's,Florida,Miami,Gluten-Free,Medium,3,Low Density,Low,December,8:00,8:35,35,33,2,Delayed,5.5,Medium,Online,Wallet,TRUE,FALSE
+429,ORD431,Papa John's,Colorado,Denver,Vegan,Small,2,High Density,Very Low,December,6:30,6:50,20,12,8,Delayed,2,Low,Online,UPI,TRUE,FALSE
+430,ORD432,Pizza Hut,Massachusetts,Boston,Stuffed Crust,X-Large,5,Medium Density,High,December,7:45,8:25,40,45,-5,Early,7.5,High,Online,Card,TRUE,FALSE
+431,ORD433,Little Caesars,Texas,Dallas,Non-Veg,Medium,3,Medium Density,Low,December,6:00,6:30,30,24,6,Delayed,4,Medium,Online,Card,TRUE,FALSE
+432,ORD434,Marco's Pizza,Washington,Seattle,Veg,Large,4,Low Density,Medium,December,8:15,9:00,45,54,-9,Early,9,High,Online,Wallet,TRUE,TRUE
+433,ORD435,Domino's,California,San Jose,Veg,Medium,2,Medium Density,Very Low,December,6:00,6:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,TRUE
+434,ORD436,Papa John's,Texas,Austin,Non-Veg,Large,4,Medium Density,Medium,December,7:15,7:45,30,36,-6,Early,6,Medium,Offline,Cash,TRUE,FALSE
+435,ORD437,Pizza Hut,California,San Diego,Cheese Burst,X-Large,5,Medium Density,High,December,8:30,9:10,40,48,-8,Early,8,High,Online,Card,TRUE,FALSE
+436,ORD438,Little Caesars,Florida,Jacksonville,Vegan,Small,1,Low Density,Very Low,December,6:45,7:05,20,15,5,Delayed,2.5,Low,Online,Wallet,TRUE,FALSE
+437,ORD439,Marco's Pizza,Texas,Fort Worth,Non-Veg,Large,4,Low Density,Medium,December,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,FALSE
+438,ORD440,Domino's,Ohio,Columbus,Veg,Medium,3,Low Density,Low,December,8:00,8:35,35,33,2,Delayed,5.5,Medium,Online,Wallet,TRUE,FALSE
+439,ORD441,Papa John's,North Carolina,Charlotte,Vegan,Small,2,High Density,Very Low,December,6:30,6:50,20,12,8,Delayed,2,Low,Online,UPI,TRUE,TRUE
+440,ORD442,Pizza Hut,Indiana,Indianapolis,Stuffed Crust,X-Large,5,Medium Density,High,December,7:45,8:25,40,45,-5,Early,7.5,High,Online,Card,TRUE,TRUE
+441,ORD443,Little Caesars,California,San Francisco,Non-Veg,Medium,3,Medium Density,Low,December,6:00,6:30,30,24,6,Delayed,4,Medium,Online,UPI,TRUE,FALSE
+442,ORD444,Marco's Pizza,North Carolina,Charlotte,Veg,Large,4,Low Density,Medium,December,8:15,9:00,45,54,-9,Early,9,High,Offline,Cash,TRUE,FALSE
+443,ORD445,Domino's,Michigan,Detroit,Veg,Medium,2,Medium Density,Very Low,January,6:00,6:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,FALSE
+444,ORD446,Papa John's,Texas,El Paso,Non-Veg,Large,4,Medium Density,Medium,January,7:15,7:45,30,36,-6,Early,6,Medium,Online,Wallet,TRUE,FALSE
+445,ORD447,Pizza Hut,Tennessee,Memphis,Cheese Burst,X-Large,5,Medium Density,High,January,8:30,9:10,40,48,-8,Early,8,High,Online,Card,TRUE,FALSE
+446,ORD448,Little Caesars,Maryland,Baltimore,Vegan,Small,1,Low Density,Very Low,January,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,TRUE
+447,ORD449,Marco's Pizza,Massachusetts,Boston,Non-Veg,Large,4,Low Density,Medium,January,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,TRUE
+448,ORD450,Domino's,New York,New York,Veg,Medium,2,Medium Density,Very Low,January,6:00,6:20,20,18,2,Delayed,3,Low,Offline,Domino's Cash,TRUE,FALSE
+449,ORD451,Papa John's,Illinois,Chicago,Deep Dish,Large,4,Medium Density,Medium,January,7:15,7:45,30,36,-6,Early,6,Medium,Online,UPI,TRUE,FALSE
+450,ORD452,Pizza Hut,California,Los Angeles,Cheese Burst,X-Large,5,Medium Density,High,January,8:30,9:10,40,48,-8,Early,8,High,Online,Card,TRUE,FALSE
+451,ORD453,Little Caesars,Texas,Houston,Thai Chicken,Medium,3,Medium Density,Low,January,6:00,6:30,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+452,ORD454,Marco's Pizza,Georgia,Atlanta,Sicilian,Large,4,Medium Density,Medium,January,7:15,7:50,35,39,-4,Early,6.5,High,Online,UPI,TRUE,FALSE
+453,ORD455,Domino's,Florida,Orlando,Cheese Burst,X-Large,5,Medium Density,High,January,8:30,9:10,40,48,-8,Early,8,High,Online,Wallet,TRUE,TRUE
+454,ORD456,Papa John's,Texas,Austin,Vegan,Small,1,Low Density,Very Low,January,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,TRUE
+455,ORD457,Pizza Hut,Washington,Seattle,Non-Veg,Large,4,Low Density,Medium,January,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,FALSE
+456,ORD458,Domino's,Florida,Miami,Gluten-Free,Medium,3,Low Density,Low,January,8:00,8:35,35,33,2,Delayed,5.5,Medium,Offline,Domino's Cash,TRUE,FALSE
+457,ORD459,Papa John's,Colorado,Denver,Vegan,Small,2,High Density,Very Low,January,6:30,6:50,20,12,8,Delayed,2,Low,Online,UPI,TRUE,FALSE
+458,ORD460,Pizza Hut,Massachusetts,Boston,Stuffed Crust,X-Large,5,Medium Density,High,January,7:45,8:25,40,45,-5,Early,7.5,High,Online,Card,TRUE,FALSE
+459,ORD461,Domino's,New York,New York,Veg,Medium,2,Medium Density,Very Low,January,6:00,6:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,FALSE
+460,ORD462,Papa John's,Illinois,Chicago,Deep Dish,Large,4,Medium Density,Medium,January,7:15,7:45,30,36,-6,Early,6,Medium,Online,UPI,TRUE,TRUE
+461,ORD463,Little Caesars,California,Los Angeles,Cheese Burst,X-Large,5,Medium Density,High,January,8:30,9:10,40,48,-8,Early,8,High,Online,Wallet,TRUE,TRUE
+462,ORD464,Marco's Pizza,Texas,Houston,Vegan,Small,1,Low Density,Very Low,January,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,FALSE
+463,ORD465,Domino's,Arizona,Phoenix,Non-Veg,Large,4,Low Density,Medium,January,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,FALSE
+464,ORD466,Papa John's,Pennsylvania,Philadelphia,Gluten-Free,Medium,3,Low Density,Low,January,8:00,8:35,35,33,2,Delayed,5.5,Medium,Online,Wallet,TRUE,FALSE
+465,ORD467,Pizza Hut,Texas,San Antonio,Vegan,Small,2,High Density,Very Low,January,6:30,6:50,20,12,8,Delayed,2,Low,Online,UPI,TRUE,FALSE
+466,ORD468,Little Caesars,California,San Diego,Stuffed Crust,X-Large,5,Medium Density,High,January,7:45,8:25,40,45,-5,Early,7.5,High,Online,Card,TRUE,FALSE
+467,ORD469,Marco's Pizza,Texas,Dallas,Non-Veg,Medium,3,Medium Density,Low,January,6:00,6:30,30,24,6,Delayed,4,Medium,Online,UPI,TRUE,TRUE
+468,ORD470,Domino's,California,San Jose,Veg,Large,4,Low Density,Medium,January,8:15,9:00,45,54,-9,Early,9,High,Offline,Cash,TRUE,TRUE
+469,ORD471,Papa John's,Texas,Austin,Veg,Medium,2,Medium Density,Very Low,January,6:00,6:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,FALSE
+470,ORD472,Pizza Hut,Florida,Jacksonville,Non-Veg,Large,4,Medium Density,Medium,January,7:15,7:45,30,36,-6,Early,6,Medium,Online,Wallet,TRUE,FALSE
+471,ORD473,Little Caesars,Texas,Fort Worth,Cheese Burst,X-Large,5,Medium Density,High,January,8:30,9:10,40,48,-8,Early,8,High,Online,Card,TRUE,FALSE
+472,ORD474,Marco's Pizza,Ohio,Columbus,Vegan,Small,1,Low Density,Very Low,January,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,FALSE
+473,ORD475,Domino's,North Carolina,Charlotte,Non-Veg,Large,4,Low Density,Medium,January,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,FALSE
+474,ORD476,Papa John's,California,San Francisco,Gluten-Free,Medium,3,Low Density,Low,February,8:00,8:35,35,33,2,Delayed,5.5,Medium,Online,Wallet,TRUE,TRUE
+475,ORD477,Pizza Hut,Indiana,Indianapolis,Vegan,Small,2,High Density,Very Low,February,6:30,6:50,20,12,8,Delayed,2,Low,Online,UPI,TRUE,TRUE
+476,ORD478,Little Caesars,Washington,Seattle,Stuffed Crust,X-Large,5,Medium Density,High,February,7:45,8:25,40,45,-5,Early,7.5,High,Online,Card,TRUE,FALSE
+477,ORD479,Marco's Pizza,Colorado,Denver,Non-Veg,Medium,3,Medium Density,Low,February,6:00,6:30,30,24,6,Delayed,4,Medium,Online,UPI,TRUE,FALSE
+478,ORD480,Domino's,District of Columbia,Washington,Veg,Large,4,Low Density,Medium,February,8:15,9:00,45,54,-9,Early,9,High,Offline,Cash,TRUE,FALSE
+479,ORD481,Papa John's,Massachusetts,Boston,Veg,Medium,2,Medium Density,Very Low,February,6:00,6:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,FALSE
+480,ORD482,Pizza Hut,Tennessee,Nashville,Non-Veg,Large,4,Medium Density,Medium,February,7:15,7:45,30,36,-6,Early,6,Medium,Online,Wallet,TRUE,FALSE
+481,ORD483,Little Caesars,Maryland,Baltimore,Cheese Burst,X-Large,5,Medium Density,High,February,8:30,9:10,40,48,-8,Early,8,High,Online,Card,TRUE,TRUE
+482,ORD484,Marco's Pizza,Kentucky,Louisville,Vegan,Small,1,Low Density,Very Low,February,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,TRUE
+483,ORD485,Domino's,Wisconsin,Milwaukee,Non-Veg,Large,4,Low Density,Medium,February,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,FALSE
+484,ORD486,Papa John's,New Mexico,Albuquerque,Gluten-Free,Medium,3,Low Density,Low,February,8:00,8:35,35,33,2,Delayed,5.5,Medium,Online,Wallet,TRUE,FALSE
+485,ORD487,Pizza Hut,Arizona,Tucson,Vegan,Small,2,High Density,Very Low,February,6:30,6:50,20,12,8,Delayed,2,Low,Online,Wallet,TRUE,FALSE
+486,ORD488,Little Caesars,California,Fresno,Cheese Burst,X-Large,5,Medium Density,High,February,7:45,8:25,40,45,-5,Early,7.5,High,Online,Card,TRUE,FALSE
+487,ORD489,Marco's Pizza,California,Sacramento,Veg,Medium,2,Medium Density,Very Low,February,6:00,6:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,FALSE
+488,ORD490,Domino's,Missouri,Kansas City,Deep Dish,Large,4,Medium Density,Medium,February,7:15,7:45,30,36,-6,Early,6,Medium,Online,UPI,TRUE,TRUE
+489,ORD491,Papa John's,California,Long Beach,Cheese Burst,X-Large,5,Medium Density,High,February,8:30,9:10,40,48,-8,Early,8,High,Online,Wallet,TRUE,TRUE
+490,ORD492,Pizza Hut,Arizona,Mesa,Vegan,Small,1,Low Density,Very Low,February,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,FALSE
+491,ORD493,Domino's,Georgia,Atlanta,Non-Veg,Large,4,Low Density,Medium,February,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,FALSE
+492,ORD494,Papa John's,Nebraska,Omaha,Gluten-Free,Medium,3,Low Density,Low,February,8:00,8:35,35,33,2,Delayed,5.5,Medium,Online,Wallet,TRUE,FALSE
+493,ORD495,Pizza Hut,North Carolina,Raleigh,Vegan,Small,2,High Density,Very Low,February,6:30,6:50,20,12,8,Delayed,2,Low,Online,UPI,TRUE,FALSE
+494,ORD496,Little Caesars,Florida,Miami,Stuffed Crust,X-Large,5,Medium Density,High,February,7:45,8:25,40,45,-5,Early,7.5,High,Online,Card,TRUE,FALSE
+495,ORD497,Marco's Pizza,Oklahoma,Tulsa,Non-Veg,Medium,3,Medium Density,Low,February,6:00,6:30,30,24,6,Delayed,4,Medium,Online,UPI,TRUE,TRUE
+496,ORD498,Domino's,Minnesota,Minneapolis,Veg,Large,4,Low Density,Medium,February,8:15,9:00,45,54,-9,Early,9,High,Offline,Cash,TRUE,TRUE
+497,ORD499,Papa John's,Texas,Arlington,Veg,Medium,2,Medium Density,Very Low,February,6:00,6:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,FALSE
+498,ORD500,Pizza Hut,Louisiana,New Orleans,Non-Veg,Large,4,Medium Density,Medium,February,7:15,7:45,30,36,-6,Early,6,Medium,Online,Wallet,TRUE,FALSE
+499,ORD501,Little Caesars,Kansas,Wichita,Cheese Burst,X-Large,5,Medium Density,High,February,8:30,9:10,40,48,-8,Early,8,High,Online,Card,TRUE,FALSE
+500,ORD502,Marco's Pizza,Ohio,Cleveland,Vegan,Small,1,Low Density,Very Low,February,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,FALSE
+501,ORD503,Domino's,Florida,Tampa,Non-Veg,Large,4,Low Density,Medium,February,7:00,7:50,50,60,-10,Early,10,High,Offline,Domino's Cash,TRUE,FALSE
+502,ORD504,Papa John's,California,Bakersfield,Gluten-Free,Medium,3,Low Density,Low,March,8:00,8:35,35,33,2,Delayed,5.5,Medium,Online,Wallet,TRUE,TRUE
+503,ORD505,Pizza Hut,Colorado,Aurora,Vegan,Small,2,High Density,Very Low,March,6:30,6:50,20,12,8,Delayed,2,Low,Online,UPI,TRUE,TRUE
+504,ORD506,Little Caesars,California,Anaheim,Stuffed Crust,X-Large,5,Medium Density,High,March,7:45,8:25,40,45,-5,Early,7.5,High,Online,Card,TRUE,FALSE
+505,ORD507,Marco's Pizza,Hawaii,Honolulu,Non-Veg,Medium,3,Medium Density,Low,March,6:00,6:30,30,24,6,Delayed,4,Medium,Online,UPI,TRUE,FALSE
+506,ORD508,Domino's,Kentucky,Lexington,Veg,Large,4,Low Density,Medium,March,8:15,9:00,45,54,-9,Early,9,High,Offline,Cash,TRUE,FALSE
+507,ORD509,Papa John's,California,Stockton,Veg,Medium,2,Medium Density,Very Low,March,6:00,6:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,FALSE
+508,ORD510,Pizza Hut,Texas,Corpus Christi,Non-Veg,Large,4,Medium Density,Medium,March,7:15,7:45,30,36,-6,Early,6,Medium,Online,Wallet,TRUE,FALSE
+509,ORD511,Little Caesars,Nevada,Henderson,Cheese Burst,X-Large,5,Medium Density,High,March,8:30,9:10,40,48,-8,Early,8,High,Online,Card,TRUE,TRUE
+510,ORD512,Marco's Pizza,California,Riverside,Vegan,Small,1,Low Density,Very Low,March,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,TRUE
+511,ORD513,Domino's,New Jersey,Newark,Non-Veg,Large,4,Low Density,Medium,March,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,FALSE
+512,ORD514,Papa John's,Minnesota,St. Paul,Gluten-Free,Medium,3,Low Density,Low,March,8:00,8:35,35,33,2,Delayed,5.5,Medium,Online,Wallet,TRUE,FALSE
+513,ORD515,Pizza Hut,Texas,Plano,Vegan,Small,2,High Density,Very Low,March,6:30,6:50,20,12,8,Delayed,2,Low,Online,UPI,TRUE,FALSE
+514,ORD516,Little Caesars,Nebraska,Lincoln,Cheese Burst,X-Large,5,Medium Density,High,March,7:45,8:25,40,45,-5,Early,7.5,High,Online,Card,TRUE,FALSE
+515,ORD517,Marco's Pizza,Idaho,Boise,Veg,Medium,2,Medium Density,Very Low,March,6:00,6:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,FALSE
+516,ORD518,Domino's,Nevada,Reno,Deep Dish,Large,4,Medium Density,Medium,March,7:15,7:45,30,36,-6,Early,6,Medium,Online,UPI,TRUE,TRUE
+517,ORD519,Papa John's,Arizona,Scottsdale,Cheese Burst,X-Large,5,Medium Density,High,March,8:30,9:10,40,48,-8,Early,8,High,Online,Wallet,TRUE,TRUE
+518,ORD520,Pizza Hut,Texas,Irving,Vegan,Small,1,Low Density,Very Low,March,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,FALSE
+519,ORD521,Domino's,Florida,Orlando,Non-Veg,Large,4,Low Density,Medium,March,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,FALSE
+520,ORD522,Papa John's,Wisconsin,Madison,Gluten-Free,Medium,3,Low Density,Low,March,8:00,8:35,35,33,2,Delayed,5.5,Medium,Online,Wallet,TRUE,FALSE
+521,ORD523,Pizza Hut,Texas,Lubbock,Vegan,Small,2,High Density,Very Low,March,6:30,6:50,20,12,8,Delayed,2,Low,Online,UPI,TRUE,FALSE
+522,ORD524,Little Caesars,Arizona,Chandler,Stuffed Crust,X-Large,5,Medium Density,High,March,7:45,8:25,40,45,-5,Early,7.5,High,Online,Card,TRUE,FALSE
+523,ORD525,Marco's Pizza,Texas,Garland,Non-Veg,Medium,3,Medium Density,Low,March,6:00,6:30,30,24,6,Delayed,4,Medium,Online,UPI,TRUE,TRUE
+524,ORD526,Domino's,Arizona,Glendale,Veg,Large,4,Low Density,Medium,March,8:15,9:00,45,54,-9,Early,9,High,Offline,Cash,TRUE,TRUE
+525,ORD527,Papa John's,Ohio,Akron,Veg,Medium,2,Medium Density,Very Low,March,6:00,6:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,FALSE
+526,ORD528,Pizza Hut,Louisiana,Baton Rouge,Non-Veg,Large,4,Medium Density,Medium,March,7:15,7:45,30,36,-6,Early,6,Medium,Online,Wallet,TRUE,FALSE
+527,ORD529,Little Caesars,North Carolina,Durham,Cheese Burst,X-Large,5,Medium Density,High,March,8:30,9:10,40,48,-8,Early,8,High,Online,Card,TRUE,FALSE
+528,ORD530,Marco's Pizza,California,Chula Vista,Vegan,Small,1,Low Density,Very Low,March,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,FALSE
+529,ORD531,Domino's,Indiana,Fort Wayne,Non-Veg,Large,4,Low Density,Medium,March,7:00,7:50,50,60,-10,Early,10,High,Offline,Domino's Cash,TRUE,FALSE
+530,ORD532,Papa John's,Florida,St. Petersburg,Gluten-Free,Medium,3,Low Density,Low,March,8:00,8:35,35,33,2,Delayed,5.5,Medium,Online,Wallet,TRUE,TRUE
+531,ORD533,Pizza Hut,New Jersey,Jersey City,Vegan,Small,2,High Density,Very Low,March,6:30,6:50,20,12,8,Delayed,2,Low,Online,UPI,TRUE,TRUE
+532,ORD534,Little Caesars,Missouri,St. Louis,Stuffed Crust,X-Large,5,Medium Density,High,March,7:45,8:25,40,45,-5,Early,7.5,High,Online,Card,TRUE,FALSE
+533,ORD535,Marco's Pizza,Virginia,Norfolk,Non-Veg,Medium,3,Medium Density,Low,April,6:00,6:30,30,24,6,Delayed,4,Medium,Online,UPI,TRUE,FALSE
+534,ORD536,Domino's,Texas,Laredo,Veg,Large,4,Low Density,Medium,April,8:15,9:00,45,54,-9,Early,9,High,Offline,Cash,TRUE,FALSE
+535,ORD537,Papa John's,Arizona,Chandler,Veg,Medium,2,Medium Density,Very Low,April,6:00,6:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,FALSE
+536,ORD538,Pizza Hut,Texas,Lubbock,Non-Veg,Large,4,Medium Density,Medium,April,7:15,7:45,30,36,-6,Early,6,Medium,Online,Wallet,TRUE,FALSE
+537,ORD539,Little Caesars,Texas,Garland,Cheese Burst,X-Large,5,Medium Density,High,April,8:30,9:10,40,48,-8,Early,8,High,Online,Card,TRUE,TRUE
+538,ORD540,Marco's Pizza,Arizona,Glendale,Vegan,Small,1,Low Density,Very Low,April,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,TRUE
+539,ORD541,Domino's,Ohio,Akron,Non-Veg,Large,4,Low Density,Medium,April,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,FALSE
+540,ORD542,Papa John's,Louisiana,Baton Rouge,Gluten-Free,Medium,3,Low Density,Low,April,8:00,8:35,35,33,2,Delayed,5.5,Medium,Online,Wallet,TRUE,FALSE
+541,ORD543,Pizza Hut,North Carolina,Durham,Vegan,Small,2,High Density,Very Low,April,6:30,6:50,20,12,8,Delayed,2,Low,Online,UPI,TRUE,FALSE
+542,ORD544,Domino's,Texas,Austin,Thai Chicken,Large,4,Low Density,Medium,April,7:00,7:45,45,42,3,Delayed,7,Medium,Online,Card,TRUE,FALSE
+543,ORD545,Papa John's,Colorado,Denver,Sicilian,Medium,3,Low Density,Low,April,8:15,8:55,40,39,1,Delayed,6.5,High,Online,Wallet,TRUE,FALSE
+544,ORD546,Pizza Hut,Florida,Miami,Vegan,Small,1,Low Density,Very Low,April,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,TRUE
+545,ORD547,Little Caesars,Washington,Seattle,Cheese Burst,X-Large,5,Medium Density,High,April,7:30,8:10,40,48,-8,Early,8,High,Online,Card,TRUE,TRUE
+546,ORD548,Marco's Pizza,Oregon,Portland,Non-Veg,Medium,3,Medium Density,Low,April,6:00,6:30,30,24,6,Delayed,4,Medium,Online,UPI,TRUE,FALSE
+547,ORD549,Domino's,Illinois,Chicago,Veg,Large,4,Low Density,Medium,April,8:15,9:00,45,54,-9,Early,9,High,Offline,Cash,TRUE,FALSE
+548,ORD550,Papa John's,Massachusetts,Boston,Veg,Medium,2,Medium Density,Very Low,April,6:00,6:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,FALSE
+549,ORD551,Pizza Hut,Georgia,Atlanta,Non-Veg,Large,4,Medium Density,Medium,April,7:15,7:45,30,36,-6,Early,6,Medium,Online,Wallet,TRUE,FALSE
+550,ORD552,Little Caesars,Arizona,Phoenix,Cheese Burst,X-Large,5,Medium Density,High,April,8:30,9:10,40,48,-8,Early,8,High,Online,Card,TRUE,FALSE
+551,ORD553,Marco's Pizza,California,San Diego,Vegan,Small,1,Low Density,Very Low,April,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,TRUE
+552,ORD554,Domino's,Ohio,Columbus,Non-Veg,Large,4,Low Density,Medium,April,7:00,7:50,50,60,-10,Early,10,High,Offline,Domino's Cash,TRUE,TRUE
+553,ORD555,Papa John's,North Carolina,Charlotte,Gluten-Free,Medium,3,Low Density,Low,April,8:00,8:35,35,33,2,Delayed,5.5,Medium,Online,Wallet,TRUE,FALSE
+554,ORD556,Pizza Hut,Tennessee,Nashville,Vegan,Small,2,High Density,Very Low,April,6:30,6:50,20,12,8,Delayed,2,Low,Online,UPI,TRUE,FALSE
+555,ORD557,Little Caesars,Oklahoma,Oklahoma City,Stuffed Crust,X-Large,5,Medium Density,High,April,7:45,8:25,40,45,-5,Early,7.5,High,Online,Card,TRUE,FALSE
+556,ORD558,Marco's Pizza,Nevada,Las Vegas,Non-Veg,Medium,3,Medium Density,Low,April,6:00,6:30,30,24,6,Delayed,4,Medium,Online,UPI,TRUE,FALSE
+557,ORD559,Domino's,Indiana,Indianapolis,Veg,Large,4,Low Density,Medium,April,8:15,9:00,45,54,-9,Early,9,High,Offline,Cash,TRUE,FALSE
+558,ORD560,Papa John's,California,San Jose,Veg,Medium,2,Medium Density,Very Low,April,6:00,6:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,TRUE
+559,ORD561,Pizza Hut,Florida,Jacksonville,Non-Veg,Large,4,Medium Density,Medium,April,7:15,7:45,30,36,-6,Early,6,Medium,Online,Wallet,TRUE,TRUE
+560,ORD562,Little Caesars,Texas,Fort Worth,Cheese Burst,X-Large,5,Medium Density,High,April,8:30,9:10,40,48,-8,Early,8,High,Online,Card,TRUE,FALSE
+561,ORD563,Marco's Pizza,Tennessee,Memphis,Vegan,Small,1,Low Density,Very Low,April,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,FALSE
+562,ORD564,Domino's,Maryland,Baltimore,Non-Veg,Large,4,Low Density,Medium,April,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,FALSE
+563,ORD565,Papa John's,Wisconsin,Milwaukee,Gluten-Free,Medium,3,Low Density,Low,May,8:00,8:35,35,33,2,Delayed,5.5,Medium,Online,Wallet,TRUE,FALSE
+564,ORD566,Pizza Hut,New Mexico,Albuquerque,Vegan,Small,2,High Density,Very Low,May,6:30,6:50,20,12,8,Delayed,2,Low,Online,UPI,TRUE,FALSE
+565,ORD567,Little Caesars,Arizona,Tucson,Stuffed Crust,X-Large,5,Medium Density,High,May,7:45,8:25,40,45,-5,Early,7.5,High,Online,Card,TRUE,TRUE
+566,ORD568,Marco's Pizza,California,Fresno,Non-Veg,Medium,3,Medium Density,Low,May,6:00,6:30,30,24,6,Delayed,4,Medium,Online,UPI,TRUE,TRUE
+567,ORD569,Domino's,California,Sacramento,Veg,Large,4,Low Density,Medium,May,8:15,9:00,45,54,-9,Early,9,High,Offline,Cash,TRUE,FALSE
+568,ORD570,Papa John's,Wisconsin,Milwaukee,Gluten-Free,Medium,3,Low Density,Low,May,8:00,8:35,35,33,2,Delayed,5.5,Medium,Online,Wallet,TRUE,FALSE
+569,ORD571,Domino's,New York,New York,Thai Chicken,Large,4,Low Density,Medium,May,7:00,7:45,45,42,3,Delayed,7,Medium,Online,Card,TRUE,FALSE
+570,ORD572,Papa John's,California,Los Angeles,Sicilian,Medium,3,Low Density,Low,May,8:15,8:55,40,39,1,Delayed,6.5,High,Online,Wallet,TRUE,FALSE
+571,ORD573,Pizza Hut,Illinois,Chicago,Vegan,Small,1,Low Density,Very Low,May,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,FALSE
+572,ORD574,Little Caesars,Texas,Houston,Cheese Burst,X-Large,5,Medium Density,High,May,7:30,8:10,40,48,-8,Early,8,High,Online,Card,TRUE,TRUE
+573,ORD575,Marco's Pizza,Arizona,Phoenix,Non-Veg,Medium,3,Medium Density,Low,May,6:00,6:30,30,24,6,Delayed,4,Medium,Online,UPI,TRUE,TRUE
+574,ORD576,Domino's,Pennsylvania,Philadelphia,Veg,Large,4,Low Density,Medium,May,8:15,9:00,45,54,-9,Early,9,High,Offline,Cash,TRUE,FALSE
+575,ORD577,Papa John's,Texas,San Antonio,Veg,Medium,2,Medium Density,Very Low,May,6:00,6:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,FALSE
+576,ORD578,Pizza Hut,California,San Diego,Non-Veg,Large,4,Medium Density,Medium,May,7:15,7:45,30,36,-6,Early,6,Medium,Online,Wallet,TRUE,FALSE
+577,ORD579,Little Caesars,Texas,Dallas,Cheese Burst,X-Large,5,Medium Density,High,May,8:30,9:10,40,48,-8,Early,8,High,Online,Card,TRUE,FALSE
+578,ORD580,Marco's Pizza,California,San Jose,Vegan,Small,1,Low Density,Very Low,May,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,FALSE
+579,ORD581,Domino's,Texas,Austin,Non-Veg,Large,4,Low Density,Medium,May,7:00,7:50,50,60,-10,Early,10,High,Offline,Domino's Cash,TRUE,TRUE
+580,ORD582,Papa John's,Florida,Jacksonville,Gluten-Free,Medium,3,Low Density,Low,May,8:00,8:35,35,33,2,Delayed,5.5,Medium,Online,Wallet,TRUE,TRUE
+581,ORD583,Pizza Hut,Texas,Fort Worth,Vegan,Small,2,High Density,Very Low,May,6:30,6:50,20,12,8,Delayed,2,Low,Online,UPI,TRUE,FALSE
+582,ORD584,Little Caesars,Ohio,Columbus,Stuffed Crust,X-Large,5,Medium Density,High,May,7:45,8:25,40,45,-5,Early,7.5,High,Online,Card,TRUE,FALSE
+583,ORD585,Marco's Pizza,North Carolina,Charlotte,Non-Veg,Medium,3,Medium Density,Low,May,6:00,6:30,30,24,6,Delayed,4,Medium,Online,UPI,TRUE,FALSE
+584,ORD586,Domino's,California,San Francisco,Veg,Large,4,Low Density,Medium,May,8:15,9:00,45,54,-9,Early,9,High,Offline,Cash,TRUE,FALSE
+585,ORD587,Papa John's,Indiana,Indianapolis,Veg,Medium,2,Medium Density,Very Low,May,6:00,6:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,FALSE
+586,ORD588,Pizza Hut,Washington,Seattle,Non-Veg,Large,4,Medium Density,Medium,May,7:15,7:45,30,36,-6,Early,6,Medium,Online,Wallet,TRUE,TRUE
+587,ORD589,Little Caesars,Colorado,Denver,Cheese Burst,X-Large,5,Medium Density,High,May,8:30,9:10,40,48,-8,Early,8,High,Online,Card,TRUE,TRUE
+588,ORD590,Marco's Pizza,District of Columbia,Washington,Vegan,Small,1,Low Density,Very Low,May,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,FALSE
+589,ORD591,Domino's,Massachusetts,Boston,Non-Veg,Large,4,Low Density,Medium,May,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,FALSE
+590,ORD592,Papa John's,Texas,El Paso,Gluten-Free,Medium,3,Low Density,Low,May,8:00,8:35,35,33,2,Delayed,5.5,Medium,Online,Wallet,TRUE,FALSE
+591,ORD593,Pizza Hut,Michigan,Detroit,Vegan,Small,2,High Density,Very Low,May,6:30,6:50,20,12,8,Delayed,2,Low,Online,UPI,TRUE,FALSE
+592,ORD594,Little Caesars,Tennessee,Nashville,Stuffed Crust,X-Large,5,Medium Density,High,May,7:45,8:25,40,45,-5,Early,7.5,High,Online,Card,TRUE,FALSE
+593,ORD595,Marco's Pizza,Tennessee,Memphis,Non-Veg,Medium,3,Medium Density,Low,May,6:00,6:30,30,24,6,Delayed,4,Medium,Online,UPI,TRUE,TRUE
+594,ORD596,Domino's,Oregon,Portland,Veg,Large,4,Low Density,Medium,June,8:15,9:00,45,54,-9,Early,9,High,Offline,Cash,TRUE,TRUE
+595,ORD597,Papa John's,Oklahoma,Oklahoma City,Veg,Medium,2,Medium Density,Very Low,June,6:00,6:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,FALSE
+596,ORD598,Pizza Hut,Nevada,Las Vegas,Non-Veg,Large,4,Medium Density,Medium,June,7:15,7:45,30,36,-6,Early,6,Medium,Online,Wallet,TRUE,FALSE
+597,ORD599,Little Caesars,Georgia,Atlanta,Cheese Burst,X-Large,5,Medium Density,High,June,8:30,9:10,40,48,-8,Early,8,High,Online,Card,TRUE,FALSE
+598,ORD600,Marco's Pizza,Florida,Miami,Vegan,Small,1,Low Density,Very Low,June,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,FALSE
+599,ORD601,Domino's,New York,New York,Thai Chicken,Large,4,Low Density,Medium,June,7:00,7:45,45,42,3,Delayed,7,Medium,Online,Card,TRUE,FALSE
+600,ORD602,Papa John's,California,Los Angeles,Sicilian,Medium,3,Low Density,Low,June,8:15,8:55,40,39,1,Delayed,6.5,High,Online,Wallet,TRUE,TRUE
+601,ORD603,Pizza Hut,Illinois,Chicago,Vegan,Small,1,Low Density,Very Low,June,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,TRUE
+602,ORD604,Little Caesars,Texas,Houston,Cheese Burst,X-Large,5,Medium Density,High,June,7:30,8:10,40,48,-8,Early,8,High,Online,Card,TRUE,FALSE
+603,ORD605,Marco's Pizza,Arizona,Phoenix,Non-Veg,Medium,3,Medium Density,Low,June,6:00,6:30,30,24,6,Delayed,4,Medium,Online,UPI,TRUE,FALSE
+604,ORD606,Domino's,Pennsylvania,Philadelphia,Veg,Large,4,Low Density,Medium,June,8:15,9:00,45,54,-9,Early,9,High,Offline,Cash,TRUE,FALSE
+605,ORD607,Papa John's,Texas,San Antonio,Veg,Medium,2,Medium Density,Very Low,June,6:00,6:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,FALSE
+606,ORD608,Pizza Hut,California,San Diego,Non-Veg,Large,4,Medium Density,Medium,June,7:15,7:45,30,36,-6,Early,6,Medium,Online,Wallet,TRUE,FALSE
+607,ORD609,Little Caesars,Texas,Dallas,Cheese Burst,X-Large,5,Medium Density,High,June,8:30,9:10,40,48,-8,Early,8,High,Online,Card,TRUE,TRUE
+608,ORD610,Marco's Pizza,California,San Jose,Vegan,Small,1,Low Density,Very Low,June,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,TRUE
+609,ORD611,Domino's,Texas,Austin,Non-Veg,Large,4,Low Density,Medium,June,7:00,7:50,50,60,-10,Early,10,High,Offline,Domino's Cash,TRUE,FALSE
+610,ORD612,Papa John's,Florida,Jacksonville,Gluten-Free,Medium,3,Low Density,Low,June,8:00,8:35,35,33,2,Delayed,5.5,Medium,Online,Wallet,TRUE,FALSE
+611,ORD613,Pizza Hut,Texas,Fort Worth,Vegan,Small,2,High Density,Very Low,June,6:30,6:50,20,12,8,Delayed,2,Low,Online,UPI,TRUE,FALSE
+612,ORD614,Little Caesars,Ohio,Columbus,Stuffed Crust,X-Large,5,Medium Density,High,June,7:45,8:25,40,45,-5,Early,7.5,High,Online,Card,TRUE,FALSE
+613,ORD615,Marco's Pizza,North Carolina,Charlotte,Non-Veg,Medium,3,Medium Density,Low,June,6:00,6:30,30,24,6,Delayed,4,Medium,Online,UPI,TRUE,FALSE
+614,ORD616,Domino's,California,San Francisco,Veg,Large,4,Low Density,Medium,June,8:15,9:00,45,54,-9,Early,9,High,Offline,Cash,TRUE,TRUE
+615,ORD617,Papa John's,Indiana,Indianapolis,Veg,Medium,2,Medium Density,Very Low,June,6:00,6:20,20,18,2,Delayed,3,Low,Online,Card,TRUE,TRUE
+616,ORD618,Pizza Hut,Washington,Seattle,Non-Veg,Large,4,Medium Density,Medium,June,7:15,7:45,30,36,-6,Early,6,Medium,Online,Wallet,TRUE,FALSE
+617,ORD619,Little Caesars,Colorado,Denver,Cheese Burst,X-Large,5,Medium Density,High,June,8:30,9:10,40,48,-8,Early,8,High,Online,Card,TRUE,FALSE
+618,ORD620,Marco's Pizza,District of Columbia,Washington,Vegan,Small,1,Low Density,Very Low,June,6:45,7:05,20,15,5,Delayed,2.5,Low,Offline,Cash,TRUE,FALSE
+619,ORD621,Domino's,Massachusetts,Boston,Non-Veg,Large,4,Low Density,Medium,June,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,FALSE
+620,ORD622,Papa John's,Texas,El Paso,Gluten-Free,Medium,3,Low Density,Low,June,8:00,8:35,35,33,2,Delayed,5.5,Medium,Online,Wallet,TRUE,FALSE
+621,ORD623,Pizza Hut,Michigan,Detroit,Vegan,Small,2,High Density,Very Low,June,6:30,6:50,20,12,8,Delayed,2,Low,Online,UPI,TRUE,TRUE
+622,ORD624,Little Caesars,Tennessee,Nashville,Stuffed Crust,X-Large,5,Medium Density,High,June,7:45,8:25,40,45,-5,Early,7.5,High,Online,Card,TRUE,TRUE
+623,ORD625,Domino's,Texas,Austin,Cheese Burst,Large,4,Medium Density,Medium,June,7:20,7:55,35,30,5,Delayed,5,Medium,Online,Card,TRUE,TRUE
+624,ORD626,Pizza Hut,Florida,Miami,Veg,Medium,2,Low Density,Very Low,June,8:00,8:30,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,TRUE
+625,ORD627,Little Caesars,Georgia,Atlanta,Non-Veg,X-Large,5,Low Density,High,June,8:05,8:55,50,54,-4,Early,9,High,Offline,Cash,TRUE,TRUE
+626,ORD628,Domino's,Texas,Austin,Cheese Burst,Large,4,Medium Density,Medium,June,9:00,9:35,35,30,5,Delayed,5,Medium,Online,Card,TRUE,TRUE
+627,ORD629,Papa John's,Washington,Seattle,Gluten-Free,Medium,3,Medium Density,Low,June,5:45,6:10,25,24,1,Delayed,4,Low,Online,UPI,FALSE,FALSE
+628,ORD630,Pizza Hut,Florida,Miami,Stuffed Crust,Large,5,Medium Density,High,June,6:30,7:10,40,36,4,Delayed,6,Medium,Online,Wallet,TRUE,FALSE
+629,ORD631,Domino's,Arizona,Phoenix,Veg,Medium,2,Low Density,Very Low,June,7:00,7:35,35,27,8,Delayed,4.5,Medium,Offline,Hut Points,TRUE,FALSE
+630,ORD632,Pizza Hut,Texas,Dallas,Cheese Burst,Large,4,Low Density,Medium,June,8:15,9:00,45,42,3,Delayed,7,High,Online,Card,TRUE,FALSE
+631,ORD633,Domino's,Texas,Austin,Cheese Burst,Large,4,Medium Density,Medium,June,9:10,9:40,30,30,0,On Time,5,Medium,Offline,Cash,TRUE,FALSE
+632,ORD634,Little Caesars,Illinois,Chicago,Sicilian,X-Large,5,Medium Density,High,June,6:10,6:50,40,48,-8,Early,8,High,Online,UPI,TRUE,FALSE
+633,ORD635,Marco's Pizza,Florida,Tampa,Thai Chicken,Small,3,High Density,Very Low,June,7:15,7:40,25,18,7,Delayed,3,Medium,Online,Card,TRUE,FALSE
+634,ORD636,Pizza Hut,Florida,Miami,Veg,Medium,2,Low Density,Very Low,June,8:00,8:30,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+635,ORD637,Papa John's,California,San Diego,Non-Veg,Large,4,Low Density,Medium,June,5:45,6:35,50,48,2,Delayed,8,High,Online,Card,FALSE,FALSE
+636,ORD638,Domino's,Texas,Austin,Cheese Burst,Large,4,Medium Density,Medium,June,7:05,7:40,35,30,5,Delayed,5,Medium,Online,UPI,TRUE,FALSE
+637,ORD639,Marco's Pizza,North Carolina,Charlotte,Non-Veg,Medium,3,Medium Density,Low,June,8:00,8:25,25,24,1,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+638,ORD640,Pizza Hut,Florida,Miami,Veg,Medium,2,Low Density,Very Low,June,9:00,9:30,30,24,6,Delayed,4,Low,Online,Card,TRUE,FALSE
+639,ORD641,Domino's,California,Los Angeles,Cheese Burst,Large,5,Medium Density,High,June,6:15,6:55,40,36,4,Delayed,6,Medium,Offline,Cash,TRUE,FALSE
+640,ORD642,Little Caesars,Colorado,Denver,Vegan,X-Large,2,Low Density,Low,June,7:10,7:55,45,42,3,Delayed,7,High,Online,Wallet,TRUE,FALSE
+641,ORD643,Domino's,Texas,Austin,Cheese Burst,Large,4,Medium Density,Medium,June,8:00,8:30,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+642,ORD644,Marco's Pizza,Florida,Tampa,Thai Chicken,Small,3,High Density,Very Low,June,6:10,6:40,30,18,12,Delayed,3,Medium,Offline,Cash,TRUE,FALSE
+643,ORD645,Pizza Hut,Texas,Dallas,Stuffed Crust,Medium,4,Medium Density,Low,June,7:00,7:30,30,36,-6,Early,6,Medium,Online,Card,TRUE,FALSE
+644,ORD646,Domino's,California,San Francisco,Non-Veg,Large,4,Low Density,Medium,July,7:00,7:50,50,60,-10,Early,10,High,Online,Card,TRUE,FALSE
+645,ORD647,Papa John's,Indiana,Indianapolis,Gluten-Free,Medium,3,Low Density,Low,July,8:00,8:35,35,33,2,Delayed,5.5,Medium,Online,Wallet,TRUE,FALSE
+646,ORD648,Pizza Hut,Washington,Seattle,Vegan,Small,2,High Density,Very Low,July,6:30,6:50,20,12,8,Delayed,2,Low,Online,UPI,TRUE,FALSE
+647,ORD649,Little Caesars,Colorado,Denver,Cheese Burst,X-Large,5,Medium Density,High,July,7:45,8:25,40,48,-8,Early,8,High,Online,Card,TRUE,FALSE
+648,ORD650,Marco's Pizza,Massachusetts,Boston,Thai Chicken,Medium,3,Medium Density,Low,July,6:15,6:45,30,24,6,Delayed,4,Medium,Online,UPI,TRUE,FALSE
+649,ORD651,Domino's,Tennessee,Nashville,Sicilian,Large,4,Medium Density,Medium,July,7:30,8:10,40,39,1,Delayed,6.5,High,Offline,Cash,TRUE,TRUE
+650,ORD652,Papa John's,Michigan,Detroit,Veg,Medium,2,Low Density,Very Low,July,8:45,9:15,30,21,9,Delayed,3.5,Low,Online,Card,TRUE,TRUE
+651,ORD653,Pizza Hut,Texas,El Paso,Non-Veg,Large,4,Medium Density,Medium,July,6:00,6:30,30,30,0,On Time,5,Medium,Online,Wallet,TRUE,FALSE
+652,ORD654,Little Caesars,District of Columbia,Washington,Cheese Burst,X-Large,5,Medium Density,High,July,7:15,7:55,40,42,-2,Early,7,High,Online,Card,TRUE,FALSE
+653,ORD655,Marco's Pizza,Nevada,Las Vegas,Vegan,Medium,2,Low Density,Very Low,July,8:30,9:00,30,24,6,Delayed,4,Medium,Online,UPI,TRUE,FALSE
+654,ORD656,Domino's,Kentucky,Louisville,Non-Veg,Large,4,Medium Density,Medium,July,6:45,7:25,40,36,4,Delayed,6,High,Offline,Domino's Cash,TRUE,FALSE
+655,ORD657,Papa John's,Maryland,Baltimore,Gluten-Free,Medium,3,Medium Density,Low,August,8:00,8:30,30,30,0,On Time,5,Medium,Online,Wallet,TRUE,FALSE
+656,ORD658,Pizza Hut,Wisconsin,Milwaukee,Vegan,Small,2,Medium Density,Very Low,August,6:30,7:00,30,18,12,Delayed,3,Low,Online,UPI,TRUE,TRUE
+657,ORD659,Little Caesars,New Mexico,Albuquerque,Stuffed Crust,X-Large,5,Medium Density,High,August,7:45,8:25,40,48,-8,Early,8,High,Online,Card,TRUE,TRUE
+658,ORD660,Marco's Pizza,Arizona,Tucson,Non-Veg,Medium,3,Medium Density,Low,August,6:00,6:30,30,24,6,Delayed,4,Medium,Online,UPI,TRUE,FALSE
+659,ORD661,Domino's,California,Fresno,Veg,Large,4,Medium Density,Medium,August,7:15,7:55,40,36,4,Delayed,6,High,Offline,Cash,TRUE,FALSE
+660,ORD662,Papa John's,California,Sacramento,Veg,Medium,2,Low Density,Very Low,August,8:30,9:00,30,21,9,Delayed,3.5,Low,Online,Card,TRUE,FALSE
+661,ORD663,Pizza Hut,Missouri,Kansas City,Non-Veg,Large,4,Medium Density,Medium,August,6:45,7:15,30,33,-3,Early,5.5,Medium,Online,Wallet,TRUE,FALSE
+662,ORD664,Little Caesars,Arizona,Mesa,Cheese Burst,X-Large,5,Medium Density,High,August,8:00,8:40,40,45,-5,Early,7.5,High,Online,Card,TRUE,FALSE
+663,ORD665,Marco's Pizza,Georgia,Atlanta,Vegan,Small,1,Low Density,Very Low,August,6:15,6:45,30,15,15,Delayed,2.5,Low,Offline,Cash,TRUE,TRUE
+664,ORD666,Domino's,Nebraska,Omaha,Non-Veg,Large,4,Medium Density,Medium,August,7:30,8:10,40,39,1,Delayed,6.5,High,Online,Card,TRUE,TRUE
+665,ORD667,Papa John's,North Carolina,Raleigh,Gluten-Free,Medium,3,Medium Density,Low,August,8:45,9:15,30,30,0,On Time,5,Medium,Online,Wallet,TRUE,FALSE
+666,ORD668,Pizza Hut,California,Long Beach,Vegan,Small,2,Medium Density,Very Low,August,6:00,6:30,30,18,12,Delayed,3,Low,Online,UPI,TRUE,FALSE
+667,ORD669,Little Caesars,Virginia,Virginia Beach,Cheese Burst,X-Large,5,Medium Density,High,August,7:15,7:55,40,42,-2,Early,7,High,Online,Card,TRUE,FALSE
+668,ORD670,Marco's Pizza,California,Oakland,Non-Veg,Medium,3,Medium Density,Low,August,8:30,9:00,30,24,6,Delayed,4,Medium,Online,UPI,TRUE,FALSE
+669,ORD671,Domino's,California,San Jose,Cheese Burst,Large,4,Medium Density,Medium,August,7:00,7:35,35,30,5,Delayed,5,Medium,Online,Card,TRUE,FALSE
+670,ORD672,Pizza Hut,Texas,Austin,Veg,Medium,2,Low Density,Very Low,August,6:30,7:10,40,36,4,Delayed,6,High,Online,Wallet,TRUE,TRUE
+671,ORD673,Papa John's,Ohio,Columbus,Gluten-Free,Medium,3,High Density,Low,August,8:00,8:25,25,21,4,Delayed,3.5,Low,Online,UPI,TRUE,TRUE
+672,ORD674,Little Caesars,Texas,Fort Worth,Non-Veg,X-Large,5,Medium Density,High,August,7:15,7:55,40,42,-2,Early,7,High,Offline,Cash,TRUE,FALSE
+673,ORD675,Marco's Pizza,Florida,Jacksonville,Thai Chicken,Medium,3,Medium Density,Low,August,6:45,7:15,30,24,6,Delayed,4,Medium,Online,Card,TRUE,FALSE
+674,ORD676,Domino's,Indiana,Indianapolis,Sicilian,Large,4,Medium Density,Medium,August,8:30,9:00,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+675,ORD677,Pizza Hut,North Carolina,Charlotte,Veg,Medium,2,Low Density,Very Low,August,7:00,7:30,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+676,ORD678,Papa John's,California,San Francisco,Gluten-Free,Medium,3,Medium Density,Low,August,6:15,6:50,35,30,5,Delayed,5,Medium,Online,Card,TRUE,FALSE
+677,ORD679,Little Caesars,Colorado,Denver,Cheese Burst,X-Large,5,Medium Density,High,August,8:00,8:45,45,48,-3,Early,8,High,Offline,Cash,TRUE,TRUE
+678,ORD680,Marco's Pizza,Washington,Seattle,Thai Chicken,Medium,3,Medium Density,Low,August,7:30,8:00,30,27,3,Delayed,4.5,Medium,Online,UPI,TRUE,TRUE
+679,ORD681,Domino's,Massachusetts,Boston,Non-Veg,Large,4,Medium Density,Medium,August,6:00,6:35,35,36,-1,Early,6,Medium,Online,Card,TRUE,FALSE
+680,ORD682,Pizza Hut,Michigan,Detroit,Veg,Medium,2,Low Density,Very Low,August,7:15,7:45,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+681,ORD683,Papa John's,Tennessee,Memphis,Gluten-Free,Medium,3,Medium Density,Low,August,8:30,9:00,30,30,0,On Time,5,Medium,Online,UPI,TRUE,FALSE
+682,ORD684,Little Caesars,Maryland,Baltimore,Cheese Burst,X-Large,5,Medium Density,High,August,6:45,7:25,40,45,-5,Early,7.5,High,Online,Card,TRUE,FALSE
+683,ORD685,Marco's Pizza,Tennessee,Nashville,Thai Chicken,Medium,3,Medium Density,Low,August,7:00,7:30,30,24,6,Delayed,4,Medium,Offline,Cash,TRUE,FALSE
+684,ORD686,Domino's,Oregon,Portland,Sicilian,Large,4,Medium Density,Medium,August,8:15,8:45,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,TRUE
+685,ORD687,Pizza Hut,Oklahoma,Oklahoma City,Veg,Medium,2,Low Density,Very Low,August,6:30,7:00,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,TRUE
+686,ORD688,Papa John's,Nevada,Las Vegas,Gluten-Free,Medium,3,Medium Density,Low,September,7:45,8:15,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+687,ORD689,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,September,8:00,8:40,40,48,-8,Early,8,High,Online,UPI,TRUE,FALSE
+688,ORD690,Marco's Pizza,Wisconsin,Milwaukee,Thai Chicken,Medium,3,Medium Density,Low,September,6:15,6:45,30,24,6,Delayed,4,Medium,Online,Card,TRUE,FALSE
+689,ORD691,Domino's,New Mexico,Albuquerque,Non-Veg,Large,4,Medium Density,Medium,September,7:30,8:00,30,36,-6,Early,6,Medium,Offline,Cash,TRUE,FALSE
+690,ORD692,Pizza Hut,Arizona,Tucson,Veg,Medium,2,Low Density,Very Low,September,8:45,9:15,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+691,ORD693,Papa John's,California,Fresno,Gluten-Free,Medium,3,Medium Density,Low,September,6:00,6:30,30,30,0,On Time,5,Medium,Online,UPI,TRUE,TRUE
+692,ORD694,Little Caesars,California,Sacramento,Cheese Burst,X-Large,5,Medium Density,High,September,7:15,7:55,40,42,-2,Early,7,High,Online,Card,TRUE,TRUE
+693,ORD695,Marco's Pizza,Missouri,Kansas City,Thai Chicken,Medium,3,Medium Density,Low,September,8:30,9:00,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+694,ORD696,Domino's,Arizona,Mesa,Sicilian,Large,4,Medium Density,Medium,September,6:45,7:15,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+695,ORD697,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,September,7:00,7:30,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+696,ORD698,Papa John's,Nebraska,Omaha,Gluten-Free,Medium,3,Medium Density,Low,September,8:15,8:45,30,30,0,On Time,5,Medium,Online,UPI,TRUE,FALSE
+697,ORD699,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,September,7:30,8:00,30,36,-6,Early,6,High,Online,Card,TRUE,FALSE
+698,ORD700,Marco's Pizza,Wisconsin,Milwaukee,Thai Chicken,Medium,3,Medium Density,Low,September,6:45,7:15,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,TRUE
+699,ORD701,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,September,8:00,8:30,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,TRUE
+700,ORD702,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,September,7:15,7:45,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+701,ORD703,Papa John's,Nebraska,Omaha,Gluten-Free,Medium,3,Medium Density,Low,September,8:30,9:00,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+702,ORD704,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,September,7:45,8:15,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+703,ORD705,Marco's Pizza,Wisconsin,Milwaukee,Thai Chicken,Medium,3,Medium Density,Low,September,6:00,6:30,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+704,ORD706,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,September,8:15,8:45,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+705,ORD707,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,September,7:30,8:00,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,TRUE
+706,ORD708,Papa John's,Nebraska,Omaha,Gluten-Free,Medium,3,Medium Density,Low,September,8:45,9:15,30,30,0,On Time,5,Medium,Online,Card,TRUE,TRUE
+707,ORD709,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,September,7:00,7:30,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+708,ORD710,Marco's Pizza,Wisconsin,Milwaukee,Thai Chicken,Medium,3,Medium Density,Low,September,6:15,6:45,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+709,ORD711,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,September,7:30,8:00,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+710,ORD712,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,September,8:45,9:15,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+711,ORD713,Papa John's,Nebraska,Omaha,Gluten-Free,Medium,3,Medium Density,Low,September,6:00,6:30,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+712,ORD714,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,September,7:15,7:45,30,36,-6,Early,6,High,Online,UPI,TRUE,TRUE
+713,ORD715,Marco's Pizza,Wisconsin,Milwaukee,Thai Chicken,Medium,3,Medium Density,Low,September,8:30,9:00,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,TRUE
+714,ORD716,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,September,7:00,7:30,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+715,ORD717,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,September,8:15,8:45,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+716,ORD718,Papa John's,Nebraska,Omaha,Gluten-Free,Medium,3,Medium Density,Low,October,6:30,7:00,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+717,ORD719,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,October,7:45,8:15,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+718,ORD720,Marco's Pizza,Wisconsin,Milwaukee,Thai Chicken,Medium,3,Medium Density,Low,October,6:00,6:30,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+719,ORD721,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,October,7:15,7:45,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,TRUE
+720,ORD722,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,October,8:30,9:00,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,TRUE
+721,ORD723,Papa John's,Nebraska,Omaha,Gluten-Free,Medium,3,Medium Density,Low,October,6:45,7:15,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+722,ORD724,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,October,7:00,7:30,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+723,ORD725,Marco's Pizza,Wisconsin,Milwaukee,Thai Chicken,Medium,3,Medium Density,Low,October,8:15,8:45,30,27,3,Delayed,4.5,Medium,Online,UPI,TRUE,FALSE
+724,ORD726,Papa John's,Nebraska,Omaha,Gluten-Free,Medium,3,Medium Density,Low,October,8:30,9:00,30,30,0,On Time,5,Medium,Online,UPI,TRUE,FALSE
+725,ORD727,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,October,7:45,8:15,30,36,-6,Early,6,High,Online,Card,TRUE,FALSE
+726,ORD728,Marco's Pizza,Wisconsin,Milwaukee,Thai Chicken,Medium,3,Medium Density,Low,October,6:00,6:30,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,TRUE
+727,ORD729,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,October,7:15,7:45,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,TRUE
+728,ORD730,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,October,8:30,9:00,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+729,ORD731,Papa John's,Nebraska,Omaha,Gluten-Free,Medium,3,Medium Density,Low,October,6:45,7:15,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+730,ORD732,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,October,7:00,7:30,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+731,ORD733,Marco's Pizza,Wisconsin,Milwaukee,Thai Chicken,Medium,3,Medium Density,Low,October,8:15,8:45,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+732,ORD734,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,October,7:30,8:00,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+733,ORD735,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,October,8:45,9:15,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,TRUE
+734,ORD736,Papa John's,Nebraska,Omaha,Gluten-Free,Medium,3,Medium Density,Low,October,6:00,6:30,30,30,0,On Time,5,Medium,Online,Card,TRUE,TRUE
+735,ORD737,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,October,7:15,7:45,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+736,ORD738,Marco's Pizza,Wisconsin,Milwaukee,Thai Chicken,Medium,3,Medium Density,Low,October,8:30,9:00,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+737,ORD739,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,October,7:00,7:30,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+738,ORD740,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,October,8:15,8:45,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+739,ORD741,Papa John's,Nebraska,Omaha,Gluten-Free,Medium,3,Medium Density,Low,October,6:30,7:00,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+740,ORD742,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,October,7:45,8:15,30,36,-6,Early,6,High,Online,UPI,TRUE,TRUE
+741,ORD743,Marco's Pizza,Wisconsin,Milwaukee,Thai Chicken,Medium,3,Medium Density,Low,October,6:00,6:30,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,TRUE
+742,ORD744,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,October,7:15,7:45,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+743,ORD745,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,October,8:30,9:00,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+744,ORD746,Papa John's,Nebraska,Omaha,Gluten-Free,Medium,3,Medium Density,Low,October,6:45,7:15,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+745,ORD747,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,October,7:00,7:30,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+746,ORD748,Marco's Pizza,Wisconsin,Milwaukee,Thai Chicken,Medium,3,Medium Density,Low,October,8:15,8:45,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+747,ORD749,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,November,7:30,8:00,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,TRUE
+748,ORD750,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,November,8:45,9:15,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,TRUE
+749,ORD751,Papa John's,Nebraska,Omaha,Gluten-Free,Medium,3,Medium Density,Low,November,6:00,6:30,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+750,ORD752,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,November,7:15,7:45,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+751,ORD753,Marco's Pizza,Wisconsin,Milwaukee,Thai Chicken,Medium,3,Medium Density,Low,November,8:30,9:00,30,27,3,Delayed,4.5,Medium,Online,UPI,TRUE,FALSE
+752,ORD754,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,November,6:45,7:15,30,30,0,On Time,5,Medium,Online,UPI,TRUE,FALSE
+753,ORD755,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,November,7:00,7:30,30,36,-6,Early,6,High,Online,Card,TRUE,FALSE
+754,ORD756,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,November,8:15,8:45,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,TRUE
+755,ORD757,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,November,7:30,8:00,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,TRUE
+756,ORD758,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,November,8:45,9:15,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+757,ORD759,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,November,6:00,6:30,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+758,ORD760,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,November,7:15,7:45,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+759,ORD761,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,November,8:30,9:00,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+760,ORD762,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,November,7:00,7:30,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+761,ORD763,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,November,8:15,8:45,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,TRUE
+762,ORD764,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,November,6:30,7:00,30,30,0,On Time,5,Medium,Online,Card,TRUE,TRUE
+763,ORD765,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,November,7:45,8:15,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+764,ORD766,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,November,8:00,8:30,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+765,ORD767,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,November,7:15,7:45,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+766,ORD768,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,November,8:30,9:00,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+767,ORD769,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,November,6:45,7:15,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+768,ORD770,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,November,7:00,7:30,30,36,-6,Early,6,High,Online,UPI,TRUE,TRUE
+769,ORD771,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,November,8:15,8:45,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,TRUE
+770,ORD772,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,November,7:30,8:00,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+771,ORD773,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,November,8:45,9:15,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+772,ORD774,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,November,6:00,6:30,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+773,ORD775,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,November,7:15,7:45,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+774,ORD776,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,November,8:30,9:00,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+775,ORD777,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,November,7:00,7:30,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,TRUE
+776,ORD778,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,November,8:15,8:45,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,TRUE
+777,ORD779,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,December,6:30,7:00,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+778,ORD780,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,December,7:45,8:15,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+779,ORD781,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,December,8:00,8:30,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+780,ORD782,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,December,6:15,6:45,30,30,0,On Time,5,Medium,Online,UPI,TRUE,FALSE
+781,ORD783,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,December,7:30,8:00,30,36,-6,Early,6,High,Online,Card,TRUE,FALSE
+782,ORD784,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,December,8:45,9:15,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,TRUE
+783,ORD785,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,December,7:00,7:30,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,TRUE
+784,ORD786,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,December,8:15,8:45,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+785,ORD787,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,December,6:30,7:00,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+786,ORD788,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,December,7:45,8:15,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+787,ORD789,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,December,8:00,8:30,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+788,ORD790,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,December,7:15,7:45,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+789,ORD791,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,December,8:30,9:00,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,TRUE
+790,ORD792,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,December,6:45,7:15,30,30,0,On Time,5,Medium,Online,Card,TRUE,TRUE
+791,ORD793,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,December,7:00,7:30,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+792,ORD794,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,December,8:15,8:45,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+793,ORD795,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,December,7:30,8:00,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+794,ORD796,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,December,8:45,9:15,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+795,ORD797,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,December,6:00,6:30,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+796,ORD798,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,December,7:15,7:45,30,36,-6,Early,6,High,Online,UPI,TRUE,TRUE
+797,ORD799,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,December,8:30,9:00,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,TRUE
+798,ORD800,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,December,7:00,7:30,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+799,ORD801,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,December,8:15,8:45,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+800,ORD802,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,December,6:30,7:00,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+801,ORD803,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,December,7:45,8:15,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+802,ORD804,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,December,8:00,8:30,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+803,ORD805,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,December,7:15,7:45,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,TRUE
+804,ORD806,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,December,8:30,9:00,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,TRUE
+805,ORD807,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,December,6:45,7:15,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+806,ORD808,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,December,7:00,7:30,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+807,ORD809,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,December,8:15,8:45,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+808,ORD810,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,December,6:30,7:00,30,30,0,On Time,5,Medium,Online,UPI,TRUE,FALSE
+809,ORD811,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,December,7:45,8:15,30,36,-6,Early,6,High,Online,Card,TRUE,FALSE
+810,ORD812,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,December,8:00,8:30,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+811,ORD813,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,December,7:15,7:45,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,TRUE
+812,ORD814,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,December,8:30,9:00,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,TRUE
+813,ORD815,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,December,6:45,7:15,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+814,ORD816,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,December,7:00,7:30,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+815,ORD817,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,December,8:15,8:45,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+816,ORD818,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,January,7:30,8:00,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+817,ORD819,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,January,8:45,9:15,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+818,ORD820,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,January,6:00,6:30,30,30,0,On Time,5,Medium,Online,Card,TRUE,TRUE
+819,ORD821,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,January,7:15,7:45,30,36,-6,Early,6,High,Online,UPI,TRUE,TRUE
+820,ORD822,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,January,8:30,9:00,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+821,ORD823,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,January,7:00,7:30,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+822,ORD824,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,January,8:15,8:45,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+823,ORD825,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,January,6:30,7:00,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+824,ORD826,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,January,7:45,8:15,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+825,ORD827,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,January,8:00,8:30,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,TRUE
+826,ORD828,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,January,7:15,7:45,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,TRUE
+827,ORD829,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,January,8:30,9:00,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+828,ORD830,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,January,6:45,7:15,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+829,ORD831,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,January,7:00,7:30,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+830,ORD832,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,January,8:15,8:45,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+831,ORD833,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,January,7:30,8:00,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+832,ORD834,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,January,8:45,9:15,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,TRUE
+833,ORD835,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,January,6:00,6:30,30,30,0,On Time,5,Medium,Online,Card,TRUE,TRUE
+834,ORD836,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,January,7:15,7:45,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+835,ORD837,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,January,8:30,9:00,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+836,ORD838,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,January,6:00,6:30,30,30,0,On Time,5,Medium,Online,UPI,TRUE,FALSE
+837,ORD839,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,January,7:15,7:45,30,36,-6,Early,6,High,Online,Card,TRUE,FALSE
+838,ORD840,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,January,8:30,9:00,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+839,ORD841,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,January,7:00,7:30,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,TRUE
+840,ORD842,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,January,8:15,8:45,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,TRUE
+841,ORD843,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,January,6:30,7:00,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+842,ORD844,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,January,7:45,8:15,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+843,ORD845,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,January,8:00,8:30,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+844,ORD846,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,January,7:15,7:45,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+845,ORD847,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,January,8:30,9:00,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+846,ORD848,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,January,6:45,7:15,30,30,0,On Time,5,Medium,Online,Card,TRUE,TRUE
+847,ORD849,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,February,7:00,7:30,30,36,-6,Early,6,High,Online,UPI,TRUE,TRUE
+848,ORD850,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,February,8:15,8:45,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+849,ORD851,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,February,7:30,8:00,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+850,ORD852,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,February,8:45,9:15,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+851,ORD853,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,February,6:00,6:30,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+852,ORD854,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,February,7:15,7:45,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+853,ORD855,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,February,8:30,9:00,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,TRUE
+854,ORD856,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,February,7:00,7:30,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,TRUE
+855,ORD857,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,February,8:15,8:45,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+856,ORD858,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,February,6:30,7:00,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+857,ORD859,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,February,7:45,8:15,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+858,ORD860,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,February,8:00,8:30,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+859,ORD861,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,February,7:15,7:45,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+860,ORD862,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,February,8:30,9:00,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,TRUE
+861,ORD863,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,February,6:45,7:15,30,30,0,On Time,5,Medium,Online,Card,TRUE,TRUE
+862,ORD864,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,February,7:00,7:30,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+863,ORD865,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,February,8:15,8:45,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+864,ORD866,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,February,6:30,7:00,30,30,0,On Time,5,Medium,Online,UPI,TRUE,FALSE
+865,ORD867,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,February,7:45,8:15,30,36,-6,Early,6,High,Online,Card,TRUE,FALSE
+866,ORD868,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,February,8:00,8:30,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+867,ORD869,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,February,7:15,7:45,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,TRUE
+868,ORD870,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,February,8:30,9:00,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,TRUE
+869,ORD871,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,February,6:00,6:30,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+870,ORD872,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,February,7:15,7:45,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+871,ORD873,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,February,8:30,9:00,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+872,ORD874,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,February,7:00,7:30,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+873,ORD875,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,February,8:15,8:45,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+874,ORD876,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,February,6:30,7:00,30,30,0,On Time,5,Medium,Online,Card,TRUE,TRUE
+875,ORD877,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,March,7:45,8:15,30,36,-6,Early,6,High,Online,UPI,TRUE,TRUE
+876,ORD878,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,March,8:00,8:30,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+877,ORD879,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,March,7:15,7:45,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+878,ORD880,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,March,8:30,9:00,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+879,ORD881,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,March,6:00,6:30,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+880,ORD882,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,March,7:15,7:45,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+881,ORD883,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,March,8:30,9:00,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,TRUE
+882,ORD884,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,March,7:00,7:30,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,TRUE
+883,ORD885,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,March,8:15,8:45,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+884,ORD886,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,March,6:30,7:00,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+885,ORD887,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,March,7:45,8:15,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+886,ORD888,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,March,8:00,8:30,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+887,ORD889,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,March,7:15,7:45,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+888,ORD890,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,March,8:30,9:00,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,TRUE
+889,ORD891,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,March,6:00,6:30,30,30,0,On Time,5,Medium,Online,Card,TRUE,TRUE
+890,ORD892,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,March,7:15,7:45,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+891,ORD893,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,March,8:30,9:00,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+892,ORD894,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,March,6:00,6:30,30,30,0,On Time,5,Medium,Online,UPI,TRUE,FALSE
+893,ORD895,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,March,7:15,7:45,30,36,-6,Early,6,High,Online,Card,TRUE,FALSE
+894,ORD896,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,March,8:30,9:00,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+895,ORD897,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,March,7:00,7:30,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,TRUE
+896,ORD898,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,March,8:15,8:45,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,TRUE
+897,ORD899,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,March,6:30,7:00,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+898,ORD900,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,March,7:45,8:15,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+899,ORD901,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,March,8:00,8:30,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+900,ORD902,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,March,7:15,7:45,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+901,ORD903,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,March,8:30,9:00,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+902,ORD904,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,March,6:00,6:30,30,30,0,On Time,5,Medium,Online,Card,TRUE,TRUE
+903,ORD905,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,March,7:15,7:45,30,36,-6,Early,6,High,Online,UPI,TRUE,TRUE
+904,ORD906,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,March,8:30,9:00,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+905,ORD907,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,March,7:00,7:30,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+906,ORD908,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,April,8:15,8:45,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+907,ORD909,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,April,6:30,7:00,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+908,ORD910,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,April,7:45,8:15,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+909,ORD911,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,April,8:00,8:30,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,TRUE
+910,ORD912,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,April,7:15,7:45,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,TRUE
+911,ORD913,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,April,8:30,9:00,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+912,ORD914,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,April,6:00,6:30,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+913,ORD915,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,April,7:15,7:45,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+914,ORD916,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,April,8:30,9:00,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+915,ORD917,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,April,7:00,7:30,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+916,ORD918,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,April,8:15,8:45,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,TRUE
+917,ORD919,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,April,6:30,7:00,30,30,0,On Time,5,Medium,Online,Card,TRUE,TRUE
+918,ORD920,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,April,7:45,8:15,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+919,ORD921,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,April,8:00,8:30,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+920,ORD922,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,April,6:00,6:30,30,30,0,On Time,5,Medium,Online,UPI,TRUE,FALSE
+921,ORD923,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,April,7:15,7:45,30,36,-6,Early,6,High,Online,Card,TRUE,FALSE
+922,ORD924,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,April,8:30,9:00,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+923,ORD925,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,April,7:00,7:30,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,TRUE
+924,ORD926,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,April,8:15,8:45,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,TRUE
+925,ORD927,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,April,6:30,7:00,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+926,ORD928,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,April,7:45,8:15,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+927,ORD929,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,April,8:00,8:30,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+928,ORD930,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,April,7:15,7:45,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+929,ORD931,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,April,8:30,9:00,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+930,ORD932,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,April,6:00,6:30,30,30,0,On Time,5,Medium,Online,Card,TRUE,TRUE
+931,ORD933,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,April,7:15,7:45,30,36,-6,Early,6,High,Online,UPI,TRUE,TRUE
+932,ORD934,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,April,8:30,9:00,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+933,ORD935,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,April,7:00,7:30,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+934,ORD936,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,April,8:15,8:45,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+935,ORD937,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,April,6:30,7:00,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+936,ORD938,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,May,7:45,8:15,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+937,ORD939,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,May,8:00,8:30,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,TRUE
+938,ORD940,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,May,7:15,7:45,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,TRUE
+939,ORD941,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,May,8:30,9:00,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+940,ORD942,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,May,6:00,6:30,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+941,ORD943,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,May,7:15,7:45,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+942,ORD944,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,May,8:30,9:00,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+943,ORD945,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,May,7:00,7:30,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+944,ORD946,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,May,8:15,8:45,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,TRUE
+945,ORD947,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,May,6:30,7:00,30,30,0,On Time,5,Medium,Online,Card,TRUE,TRUE
+946,ORD948,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,May,7:45,8:15,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+947,ORD949,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,May,8:00,8:30,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+948,ORD950,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,May,6:00,6:30,30,30,0,On Time,5,Medium,Online,UPI,TRUE,FALSE
+949,ORD951,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,May,7:15,7:45,30,36,-6,Early,6,High,Online,Card,TRUE,FALSE
+950,ORD952,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,May,8:30,9:00,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+951,ORD953,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,May,7:00,7:30,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,TRUE
+952,ORD954,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,May,8:15,8:45,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,TRUE
+953,ORD955,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,May,6:30,7:00,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+954,ORD956,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,May,7:45,8:15,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+955,ORD957,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,May,8:00,8:30,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+956,ORD958,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,May,7:15,7:45,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+957,ORD959,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,May,8:30,9:00,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+958,ORD960,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,May,6:00,6:30,30,30,0,On Time,5,Medium,Online,UPI,TRUE,TRUE
+959,ORD961,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,May,7:15,7:45,30,36,-6,Early,6,High,Online,Card,TRUE,TRUE
+960,ORD962,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,May,8:30,9:00,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+961,ORD963,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,May,7:00,7:30,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+962,ORD964,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,May,8:15,8:45,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+963,ORD965,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,May,6:30,7:00,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+964,ORD966,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,May,7:45,8:15,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+965,ORD967,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,May,8:00,8:30,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,TRUE
+966,ORD968,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,May,7:15,7:45,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,TRUE
+967,ORD969,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,June,8:30,9:00,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+968,ORD970,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,June,6:00,6:30,30,30,0,On Time,5,Medium,Online,UPI,TRUE,FALSE
+969,ORD971,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,June,7:15,7:45,30,36,-6,Early,6,High,Online,Card,TRUE,FALSE
+970,ORD972,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,June,8:30,9:00,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+971,ORD973,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,June,7:00,7:30,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+972,ORD974,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,June,8:15,8:45,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,TRUE
+973,ORD975,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,June,6:30,7:00,30,30,0,On Time,5,Medium,Online,Card,TRUE,TRUE
+974,ORD976,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,June,7:45,8:15,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+975,ORD977,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,June,8:00,8:30,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+976,ORD978,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,June,6:00,6:30,30,30,0,On Time,5,Medium,Online,UPI,TRUE,FALSE
+977,ORD979,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,June,7:15,7:45,30,36,-6,Early,6,High,Online,Card,TRUE,FALSE
+978,ORD980,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,June,8:30,9:00,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+979,ORD981,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,June,7:00,7:30,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,TRUE
+980,ORD982,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,June,8:15,8:45,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,TRUE
+981,ORD983,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,June,6:30,7:00,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+982,ORD984,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,June,7:45,8:15,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+983,ORD985,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,June,8:00,8:30,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+984,ORD986,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,June,7:15,7:45,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+985,ORD987,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,June,8:30,9:00,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+986,ORD988,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,June,6:00,6:30,30,30,0,On Time,5,Medium,Online,UPI,TRUE,TRUE
+987,ORD989,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,June,7:15,7:45,30,36,-6,Early,6,High,Online,Card,TRUE,TRUE
+988,ORD990,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,June,8:30,9:00,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+989,ORD991,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,June,7:00,7:30,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+990,ORD992,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,June,8:15,8:45,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+991,ORD993,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,June,6:30,7:00,30,30,0,On Time,5,Medium,Online,Card,TRUE,FALSE
+992,ORD994,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,June,7:45,8:15,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+993,ORD995,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,June,8:00,8:30,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,TRUE
+994,ORD996,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,June,7:15,7:45,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,TRUE
+995,ORD997,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,June,8:30,9:00,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,FALSE
+996,ORD998,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,June,6:00,6:30,30,30,0,On Time,5,Medium,Online,UPI,TRUE,FALSE
+997,ORD999,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,July,7:15,7:45,30,36,-6,Early,6,High,Online,Card,TRUE,FALSE
+998,ORD1000,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,July,8:30,9:00,30,27,3,Delayed,4.5,Medium,Offline,Cash,TRUE,FALSE
+999,ORD1001,Domino's,New Mexico,Albuquerque,Sicilian,Large,4,Medium Density,Medium,July,7:00,7:30,30,33,-3,Early,5.5,Medium,Online,UPI,TRUE,FALSE
+1000,ORD1002,Pizza Hut,Georgia,Atlanta,Veg,Medium,2,Low Density,Very Low,July,8:15,8:45,30,24,6,Delayed,4,Low,Online,Wallet,TRUE,TRUE
+1001,ORD1003,Papa John's,Nebraska,Omaha,BBQ Chicken,Medium,3,Medium Density,Low,July,6:30,7:00,30,30,0,On Time,5,Medium,Online,Card,TRUE,TRUE
+1002,ORD1004,Little Caesars,Kentucky,Louisville,Cheese Burst,X-Large,5,Medium Density,High,July,7:45,8:15,30,36,-6,Early,6,High,Online,UPI,TRUE,FALSE
+1003,ORD1005,Marco's Pizza,Wisconsin,Milwaukee,Margarita,Medium,3,Medium Density,Low,July,8:00,8:30,30,27,3,Delayed,4.5,Medium,Online,UPI,TRUE,FALSE
